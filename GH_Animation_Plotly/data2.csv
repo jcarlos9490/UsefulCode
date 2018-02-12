@@ -1,0 +1,3200 @@
+codigo,Pais,City, population ,concentration,cont
+SDN,Sudan,Nyala,307,359,Africa
+SDN,Sudan,Omdurman,309,287,Africa
+NGA,Nigeria,Kano,1096,283,Africa
+SDN,Sudan,KHARTOUM,2734,268,Africa
+SDN,Sudan,Medani,296,262,Africa
+SDN,Sudan,Kassala,317,256,Africa
+SDN,Sudan,El Obeid,308,253,Africa
+NGA,Nigeria,Kaduna,556,248,Africa
+NGA,Nigeria,Zaria,617,242,Africa
+PAK,Pakistan,Hyderabad,1293,239,Asia
+NGA,Nigeria,Katsina,336,232,Africa
+CMR,Cameroon,Maroua,203,228,Africa
+CMR,Cameroon,Garoua,195,223,Africa
+PAK,Pakistan,Karachi,11562,220,Asia
+IND,India,Muzaffarpur,302,218,Asia
+TCD,Chad,N'DJAMENA,969,204,Africa
+NGA,Nigeria,Maiduguri,520,203,Africa
+PAK,Pakistan,Rahimyar Khan,239,203,Asia
+PAK,Pakistan,Sadiqabad,148,203,Asia
+PAK,Pakistan,Khanpur,123,202,Asia
+MLI,Mali,Segou,132,200,Africa
+PAK,Pakistan,Bahawalnager,114,198,Asia
+IRQ,Iraq,Erbil,1998,195,Asia
+MLI,Mali,BAMAKO,1083,194,Africa
+IRQ,Iraq,Mosul,1007,193,Asia
+PAK,Pakistan,Chishtian,106,192,Asia
+PAK,Pakistan,Mirpur Khas,193,192,Asia
+IRQ,Iraq,Karradah Sharqiyah,353,191,Asia
+PAK,Pakistan,Muzaffargarh,127,190,Asia
+SDN,Sudan,Gedaref,256,190,Africa
+IRQ,Iraq,BAGHDAD,4970,189,Asia
+IRQ,Iraq,Adhamiyah,696,188,Asia
+PAK,Pakistan,Burewala,157,188,Asia
+IND,India,Delhi,10558,187,Asia
+EGY,Egypt,Shubra-El-Khema,974,186,Africa
+IRQ,Iraq,Sulamaniya,546,185,Asia
+PAK,Pakistan,Bahawalpur,421,184,Asia
+PAK,Pakistan,Faisalabad(Lyallpur),2192,183,Asia
+PAK,Pakistan,Sahiwal,217,182,Asia
+PAK,Pakistan,Pakpattan,113,181,Asia
+IRQ,Iraq,Amara,313,179,Asia
+EGY,Egypt,CAIRO,7941,178,Africa
+PAK,Pakistan,Lahore,5955,178,Asia
+IRQ,Iraq,Basra,609,177,Asia
+IRQ,Iraq,Kadhimain,781,177,Asia
+PAK,Pakistan,Jacobabad,144,176,Asia
+PAK,Pakistan,Larkana,282,175,Asia
+PAK,Pakistan,Sukkur,344,175,Asia
+BGD,Bangladesh,DHAKA,4703,174,Asia
+EGY,Egypt,Mansûra,433,173,Africa
+IRQ,Iraq,Nasariya,399,173,Asia
+PAK,Pakistan,Kasur,252,173,Asia
+PAK,Pakistan,Nawabshah,191,173,Asia
+URY,Uruguay,MONTEVIDEO,1474,173,Americas
+NER,Niger,NIAMEY,731,172,Africa
+IRQ,Iraq,Kut,275,171,Asia
+EGY,Egypt,Zagazig,335,169,Africa
+PAK,Pakistan,Sialkote,436,168,Asia
+CHN,China,Xi'an,3629,167,Asia
+IND,India,Darbhanga,274,167,Asia
+BGD,Bangladesh,Tongi,213,166,Asia
+IRQ,Iraq,Hilla,403,165,Asia
+EGY,Egypt,Alexandria,3947,163,Africa
+NGA,Nigeria,ABUJA,403,162,Africa
+PAK,Pakistan,Multan,1469,162,Asia
+PAK,Pakistan,Shikarpur,139,162,Asia
+PAK,Pakistan,Tando Adam,108,161,Asia
+BGD,Bangladesh,Jessore,222,160,Asia
+PAK,Pakistan,Khaipur,107,160,Asia
+IDN,Indonesia,Padang,854,159,Asia
+IRQ,Iraq,Diwaniya,295,159,Asia
+BGD,Bangladesh,Naogaon,140,158,Asia
+EGY,Egypt,Tanta,444,157,Africa
+BGD,Bangladesh,Narayanganj,372,156,Asia
+NER,Niger,Zinder,224,156,Africa
+BGD,Bangladesh,Pabna,145,155,Asia
+BGD,Bangladesh,Jamalpur,140,154,Asia
+EGY,Egypt,Kafr-El-Dwar,264,154,Africa
+IRQ,Iraq,Najaf,463,154,Asia
+IND,India,Calcutta,13822,153,Asia
+BGD,Bangladesh,Khulna,756,151,Asia
+NGA,Nigeria,Ilorin,774,151,Africa
+EGY,Egypt,Beni-Suef,209,150,Africa
+PAK,Pakistan,Gojra,120,150,Asia
+PAK,Pakistan,Okara,270,150,Asia
+SEN,Senegal,Saint-Louis,164,150,Africa
+BGD,Bangladesh,Tangail,145,149,Asia
+CHN,China,Tianjin,7333,149,Asia
+EGY,Egypt,Banha,159,149,Africa
+PAK,Pakistan,Gujranwala,1943,148,Asia
+CHN,China,Chongqing,3945,147,Asia
+IRQ,Iraq,Kirkuk,627,147,Asia
+EGY,Egypt,Faiyûm,292,146,Africa
+EGY,Egypt,Port Said,537,146,Africa
+EGY,Egypt,Shebin-El-Kom,185,146,Africa
+IND,India,NEW DELHI,378,143,Asia
+KWT,Kuwait,Hawalli,168,142,Asia
+MMR,Myanmar,Mandalay,759,142,Asia
+PAK,Pakistan,Dera Ghazi Khan,196,142,Asia
+PAK,Pakistan,Sargodha,475,142,Asia
+BOL,Bolivia,LA PAZ,966,141,Americas
+EGY,Egypt,Damanhûr,259,141,Africa
+NER,Niger,Maradi,196,141,Africa
+PAK,Pakistan,Gujrat,261,140,Asia
+PAK,Pakistan,Jaranwala,108,140,Asia
+EGY,Egypt,Sohag,182,138,Africa
+IRQ,Iraq,Ramadi,289,138,Asia
+BGD,Bangladesh,Comilla,198,137,Asia
+EGY,Egypt,Assyût,375,137,Africa
+KWT,Kuwait,Salmiya,177,137,Asia
+BOL,Bolivia,El Alto,549,136,Americas
+BFA,Burkina Faso,Bobo Dioulasso,429,136,Africa
+IND,India,Kanpur,2546,136,Asia
+IND,India,Lucknow,2093,136,Asia
+IND,India,Ludhiana,1308,136,Asia
+PAK,Pakistan,Mardan,255,136,Asia
+KWT,Kuwait,KUWAIT CITY,1165,135,Asia
+PAK,Pakistan,Chiniot,177,135,Asia
+IND,India,Panipat,240,134,Asia
+PAK,Pakistan,ISLAMABAD,966,134,Asia
+PAK,Pakistan,Peshawar,1958,133,Asia
+PAK,Pakistan,Quetta,585,133,Asia
+CHN,China,Baoding,752,132,Asia
+IND,India,Meerut,1066,132,Asia
+IDN,Indonesia,Ujung Pandang,1293,132,Asia
+CHN,China,Turpan,253,131,Asia
+PAK,Pakistan,Rawalpindi,1507,131,Asia
+IND,India,Karnal,221,130,Asia
+IND,India,Shahjahanpur,327,130,Asia
+PAK,Pakistan,Jehlum,152,130,Asia
+IDN,Indonesia,Ambon,371,129,Asia
+EGY,Egypt,Ismailia,298,128,Africa
+IND,India,Agra,1189,128,Asia
+SEN,Senegal,Kaolack,239,128,Africa
+EGY,Egypt,Luxer,170,127,Africa
+IND,India,Ghaziabad,642,127,Asia
+IND,India,Hisar,227,127,Asia
+PAK,Pakistan,Muridke,113,127,Asia
+GTM,Guatemala,Quezal Tenango,133,126,Americas
+IND,India,Bareilly,774,126,Asia
+IND,India,Bhopal,1333,126,Asia
+AGO,Angola,LUANDA,2592,125,Africa
+EGY,Egypt,Suez,453,125,Africa
+IDN,Indonesia,Bitung,127,125,Asia
+PAK,Pakistan,Wah Cantt,207,125,Asia
+IND,India,Arrah,197,124,Asia
+IND,India,Baranagar,282,124,Asia
+NGA,Nigeria,Oshogbo,775,124,Africa
+PAK,Pakistan,Hafizabad,136,124,Asia
+PAK,Pakistan,Kohat,131,124,Asia
+CHN,China,Dingzhou,1294,123,Asia
+CHN,China,Shijianzhuang,1734,123,Asia
+IDN,Indonesia,Medan,2261,123,Asia
+IND,India,Gorakhpur,634,122,Asia
+NGA,Nigeria,Ado-Ekiti,598,122,Africa
+PAK,Pakistan,Kamoke,158,122,Asia
+BOL,Bolivia,Cochabamba,553,121,Americas
+EGY,Egypt,Kena,165,121,Africa
+IND,India,Jhansi,462,121,Asia
+IND,India,Varanasi,1293,121,Asia
+NGA,Nigeria,Ede,499,121,Africa
+PAK,Pakistan,Daska,106,121,Asia
+BGD,Bangladesh,Chittagong,1888,120,Asia
+CHN,China,Heze,1459,120,Asia
+CHN,China,Shenyang,5881,120,Asia
+IND,India,Kamarhati,335,120,Asia
+IND,India,Muzaffarnagar,311,120,Asia
+IND,India,Noida,184,120,Asia
+IND,India,Panihati,346,120,Asia
+IND,India,Rampur,306,120,Asia
+IND,India,Sirsa,142,120,Asia
+IND,India,Wadhwan,209,120,Asia
+IDN,Indonesia,Surabaya,3198,120,Asia
+IDN,Indonesia,Tegal,371,120,Asia
+NGA,Nigeria,Ife,483,120,Africa
+SAU,Saudi Arabia,Medina,872,120,Asia
+IND,India,Bhiwani,153,119,Asia
+IND,India,Faridabad,775,119,Asia
+IDN,Indonesia,Bandung,2804,119,Asia
+NGA,Nigeria,Onitsha,605,119,Africa
+CHN,China,Boutou,625,118,Asia
+CHN,China,Linqing,850,118,Asia
+IND,India,Haora,1192,118,Asia
+IND,India,Jalandhar,639,118,Asia
+IND,India,Patiala,318,118,Asia
+IRN,Iran (Islamic Republic of),Rasht,427,118,Asia
+PAK,Pakistan,Khanewal,139,118,Asia
+SAU,Saudi Arabia,RIYADH,3083,118,Asia
+CHN,China,Dezhou,406,117,Asia
+CHN,China,Xinxiang,2237,117,Asia
+CHN,China,Zuozhou,615,117,Asia
+IND,India,Maunath Bhanjan,171,117,Asia
+IDN,Indonesia,Denpasar,515,117,Asia
+CHN,China,Zhengzhou,2214,116,Asia
+IND,India,Bahraich,170,116,Asia
+IND,India,Gwalior,900,116,Asia
+IND,India,Hugli-Chinsura,190,116,Asia
+IND,India,Naihati,166,116,Asia
+IND,India,Unnao,135,116,Asia
+YEM,Yemen,Hodeidah,333,116,Asia
+CHN,China,Xiangtan(Hebei Sheng),500,115,Asia
+IND,India,Bathinda,199,115,Asia
+IND,India,Bikaner,522,115,Asia
+IND,India,Saharanpur,470,115,Asia
+NGA,Nigeria,Mushin,542,115,Africa
+SEN,Senegal,Thies,267,115,Africa
+IND,India,Bhagalpur,326,114,Asia
+KWT,Kuwait,Al Jahra,128,114,Asia
+PAK,Pakistan,Sheikhu Pura,284,114,Asia
+YEM,Yemen,Taiz,393,114,Asia
+CHN,China,Handan,2235,113,Asia
+CHN,China,Kashi,271,113,Asia
+CHN,China,Liaocheng,1059,113,Asia
+CIV,Côte d'Ivoire,Korhogo,176,113,Africa
+IND,India,Jaipur,1904,113,Asia
+IND,India,Rae Bareli,163,113,Asia
+IND,India,Shivapuri,136,113,Asia
+IND,India,South Dum Dum,292,113,Asia
+IDN,Indonesia,Jambi,486,113,Asia
+MRT,Mauritania,NOUAKCHOTT,881,113,Africa
+NGA,Nigeria,Ibadan,1778,113,Africa
+PRY,Paraguay,Lambare,132,113,Americas
+CHN,China,Anyang,779,112,Asia
+CHN,China,Cangzhou,398,112,Asia
+CHN,China,Jinan,3037,112,Asia
+CHN,China,Langfang,1362,112,Asia
+CHN,China,Nangong,542,112,Asia
+IND,India,Bally,231,112,Asia
+IND,India,Chandan Nagar,151,112,Asia
+IND,India,Faizabad,222,112,Asia
+IND,India,Serampore,172,112,Asia
+IND,India,Titagarh,143,112,Asia
+IDN,Indonesia,Magelang,146,112,Asia
+BGD,Bangladesh,Rajshahi,415,111,Asia
+CHN,China,Luoyang,1519,111,Asia
+CHN,China,Yinchuan,634,111,Asia
+IND,India,Ambala,175,111,Asia
+IND,India,Baharampur,159,111,Asia
+IND,India,Budaun,146,111,Asia
+IND,India,Firozabad,339,111,Asia
+IND,India,Gurgaon,170,111,Asia
+IDN,Indonesia,Bogor,337,111,Asia
+UZB,Uzbekistan,Namangan,338,111,Asia
+CHN,China,Hami,268,110,Asia
+CHN,China,Nanjiang,3298,110,Asia
+IND,India,Gaya,369,110,Asia
+UZB,Uzbekistan,Andizhan,321,110,Asia
+CHN,China,Lanzhou,2044,109,Asia
+PRK,Democratic People's Republic of Korea,Pyongyang,3136,109,Asia
+EGY,Egypt,Menia,243,109,Africa
+IND,India,Ajmer,505,109,Asia
+IND,India,Bharatpur,197,109,Asia
+IDN,Indonesia,Pakalongan,404,109,Asia
+IDN,Indonesia,Semarang,1618,109,Asia
+PRY,Paraguay,San Lorenzo,177,109,Americas
+AZE,Azerbaijan,BAKU,1293,108,Asia
+CHN,China,Gaocheng,866,108,Asia
+CHN,China,Zhoukou,310,108,Asia
+IND,India,Ganganagar,203,108,Asia
+IND,India,Hapur,183,108,Asia
+IND,India,Pilibhit,134,108,Asia
+IND,India,Sonipat,180,108,Asia
+ARG,Argentina,BUENOS AIRES,12223,107,Americas
+CHN,China,Hengshui,417,107,Asia
+CHN,China,Jining(Shandong Sheng),1852,107,Asia
+COG,Congo,Pointe-Noire,611,107,Africa
+GEO,Georgia,TBILISI,1254,107,Asia
+IND,India,Modinagar,155,107,Asia
+IRN,Iran (Islamic Republic of),Babol,174,107,Asia
+NGA,Nigeria,Ikere-Ekiti,398,107,Africa
+SYR,Syrian Arab Republic,Aleppo,2106,107,Asia
+BGD,Bangladesh,Mymensingh,257,106,Asia
+CHN,China,BEIJING (PEKING),9302,106,Asia
+CHN,China,Donglin,768,106,Asia
+CHN,China,Xuchang,1729,106,Asia
+CHN,China,Yuncheng,622,106,Asia
+IDN,Indonesia,Palembang,1601,106,Asia
+NGA,Nigeria,Oyo,417,106,Africa
+SYR,Syrian Arab Republic,DAMASCUS,2331,106,Asia
+CHN,China,Shihezi,216,105,Asia
+CHN,China,Taiyan,2811,105,Asia
+IND,India,Amroha,172,105,Asia
+IND,India,Etawah,156,105,Asia
+IND,India,Guna,126,105,Asia
+IND,India,Patna,1379,105,Asia
+IRN,Iran (Islamic Republic of),Sari,212,105,Asia
+OMN,Oman,MUSCAT,887,105,Asia
+SAU,Saudi Arabia,Jeddah,1756,105,Asia
+CHN,China,Shahe,498,104,Asia
+CHN,China,Shangqiu,309,104,Asia
+CHN,China,Wuchuang,307,104,Asia
+IND,India,Ahmedabad,4154,104,Asia
+IND,India,Jaunpur,171,104,Asia
+IND,India,Moga,139,104,Asia
+IRQ,Iraq,Mamoon,367,104,Asia
+CHN,China,Chengdu,4401,103,Asia
+CHN,China,Jiaozuo,1994,103,Asia
+CHN,China,Luohe,237,103,Asia
+CHN,China,Tangshan,1876,103,Asia
+CHN,China,Xuzhou (Jiangsu Sheng),2309,103,Asia
+IND,India,Alipurduar,129,103,Asia
+IDN,Indonesia,JAKARTA,10845,103,Asia
+MMR,Myanmar,Sittwe,153,103,Asia
+BOL,Bolivia,Oruro,248,102,Americas
+CHN,China,Baiyin,483,102,Asia
+CHN,China,Jieshou,812,102,Asia
+CHN,China,Kaifeng,876,102,Asia
+CHN,China,Korla,257,102,Asia
+CHN,China,Pingdingshan,2309,102,Asia
+CHN,China,Shizuishan,357,102,Asia
+CHN,China,Xianyang,931,102,Asia
+IND,India,Alwar,264,102,Asia
+IND,India,Bidar,166,102,Asia
+IND,India,Guwahati,733,102,Asia
+IND,India,Purnia,172,102,Asia
+IND,India,Sikar,186,102,Asia
+IDN,Indonesia,Balikpapan,493,102,Asia
+MAC,Macau,MACAU,462,102,Asia
+NGA,Nigeria,Aba,486,102,Africa
+NGA,Nigeria,Iwo,589,102,Africa
+BGR,Bulgaria,Plovdiv,342,101,Europe
+CHN,China,Linxia,213,101,Asia
+IND,India,Beawar,134,101,Asia
+IND,India,Imphal,254,101,Asia
+IRQ,Iraq,Kerbala,445,101,Asia
+JOR,Jordan,Irbid,311,101,Asia
+CHN,China,Dengzhou,1757,100,Asia
+IND,India,Fatehpur,148,100,Asia
+IND,India,Satna,201,100,Asia
+IND,India,Yamunanagar,276,100,Asia
+IDN,Indonesia,Tangerang,1419,100,Asia
+IDN,Indonesia,Yogyakarta,497,100,Asia
+IRN,Iran (Islamic Republic of),Bandar-e-Abbas,437,100,Asia
+PAK,Pakistan,Jhang,305,100,Asia
+PRY,Paraguay,ASUNCION,666,100,Americas
+LKA,Sri Lanka,Dehiwala-Mount Lavinia,234,100,Asia
+CHN,China,Anshan,3132,99,Asia
+CHN,China,Nanyang,473,99,Asia
+ETH,Ethiopia,ADDIS ABABA,3010,99,Africa
+IND,India,Barrackpur,167,99,Asia
+IND,India,Bhilwara,231,99,Asia
+IND,India,Dewas,206,99,Asia
+IND,India,Katihar,194,99,Asia
+IND,India,Udaipur,387,99,Asia
+PAK,Pakistan,Abbottabad,111,99,Asia
+DZA,Algeria,Beskra,177,98,Africa
+CHN,China,Baoji,571,98,Asia
+CHN,China,Huaibei,677,98,Asia
+CHN,China,Pingliang,488,98,Asia
+CHN,China,Weinan,968,98,Asia
+IND,India,Chandigarh,722,98,Asia
+IND,India,Morena,185,98,Asia
+IND,India,Siliguri,272,98,Asia
+IND,India,Vadodara,1413,98,Asia
+IDN,Indonesia,Bandjarmasin,633,98,Asia
+IDN,Indonesia,Mataram,363,98,Asia
+NGA,Nigeria,Ogbomosho,1520,98,Africa
+PAK,Pakistan,Mingora,182,98,Asia
+LKA,Sri Lanka,COLOMBO,735,98,Asia
+SYR,Syrian Arab Republic,Lattakia,359,98,Asia
+VNM,Viet Nam,Namdinh,264,98,Asia
+YEM,Yemen,SANA'A,1255,98,Asia
+BFA,Burkina Faso,OUAGADOUGOU,1013,97,Africa
+CHN,China,Changsha,1679,97,Asia
+CHN,China,Hunanghua,446,97,Asia
+CHN,China,Qingtongxia,272,97,Asia
+CHN,China,Qiqihar,1769,97,Asia
+IND,India,Hathras,142,97,Asia
+IND,India,Kanchrapara,126,97,Asia
+CHN,China,Linfen,736,96,Asia
+CHN,China,Puyang,382,96,Asia
+CHN,China,Shashi,455,96,Asia
+CHN,China,Xiangfan,3772,96,Asia
+CHN,China,Xinyi,750,96,Asia
+IND,India,Chapra,172,96,Asia
+NGA,Nigeria,Benin,373,96,Africa
+LKA,Sri Lanka,Jaffna,154,96,Asia
+VNM,Viet Nam,HANOI,3675,96,Asia
+CHN,China,Dunhuang,142,95,Asia
+CHN,China,Fuyang,294,95,Asia
+CHN,China,Huaiyin,3302,95,Asia
+CHN,China,Xining,882,95,Asia
+CHN,China,Yichang,622,95,Asia
+CHN,China,Zaozhuang,4033,95,Asia
+PRK,Democratic People's Republic of Korea,Sinuiju,422,95,Asia
+GTM,Guatemala,Esquintla,143,95,Americas
+IND,India,Allahabad,1059,95,Asia
+IND,India,Hardwar,235,95,Asia
+IND,India,Jodhpur,836,95,Asia
+CHN,China,Jincheng,198,94,Asia
+CHN,China,Jinzhou,930,94,Asia
+CHN,China,Nanchang,1594,94,Asia
+CHN,China,Tai'an,4832,94,Asia
+CHN,China,Wuhan,4842,94,Asia
+CHN,China,Yangquan,726,94,Asia
+JOR,Jordan,Zarqa,516,94,Asia
+SYR,Syrian Arab Republic,Homs,662,94,Asia
+BGD,Bangladesh,Nawabganj,168,93,Asia
+CHN,China,Bengbu,878,93,Asia
+CHN,China,Buizhou,711,93,Asia
+CHN,China,Hebi,477,93,Asia
+CHN,China,Tongchuan,523,93,Asia
+CHN,China,Xuzhou,326,93,Asia
+GMB,Gambia,BANJUL,229,93,Africa
+IND,India,Durg,189,93,Asia
+IND,India,Sitapur,153,93,Asia
+JOR,Jordan,Russiefa,166,93,Asia
+NGA,Nigeria,Ila,427,93,Africa
+PRY,Paraguay,Ciudad del Este,177,93,Americas
+SAU,Saudi Arabia,Hufuf,446,93,Asia
+LKA,Sri Lanka,Kotte,130,93,Asia
+LKA,Sri Lanka,Moratuwa,203,93,Asia
+SYR,Syrian Arab Republic,Hama,324,93,Asia
+DZA,Algeria,Touggourt,118,92,Africa
+CHN,China,Ankang,1085,92,Asia
+CHN,China,Anqing,586,92,Asia
+CHN,China,Fushun,1754,92,Asia
+CHN,China,Fuyu,1194,92,Asia
+CHN,China,Hancheng,437,92,Asia
+CHN,China,Hefei,1389,92,Asia
+CHN,China,Jiujiang,1000,92,Asia
+CHN,China,Liaoyang,808,92,Asia
+CHN,China,Linyi,2009,92,Asia
+CHN,China,Suinin,1591,92,Asia
+CHN,China,Yuci,590,92,Asia
+CHN,China,Zhaoqing,441,92,Asia
+IND,India,Kota,674,92,Asia
+IND,India,Moradabad,556,92,Asia
+IND,India,Surat,1905,92,Asia
+SAU,Saudi Arabia,Makkah,915,92,Asia
+ARE,United Arab Emirates,Al-Aïn,287,92,Asia
+UZB,Uzbekistan,Kokand,190,92,Asia
+VNM,Viet Nam,Haiphong,1740,92,Asia
+VNM,Viet Nam,Thanhhoa,153,92,Asia
+ARM,Armenia,YEREVAN,1290,91,Asia
+BEN,Benin,Parakou,144,91,Africa
+BOL,Bolivia,Potosí,152,91,Americas
+CHN,China,Dandong,834,91,Asia
+CHN,China,Hanzhong,558,91,Asia
+CHN,China,Harbin,4545,91,Asia
+CHN,China,Nanchong,353,91,Asia
+CHN,China,Tianshui,1314,91,Asia
+CHN,China,Tongliao,851,91,Asia
+CHN,China,Wanxian,397,91,Asia
+PRK,Democratic People's Republic of Korea,Nampo,873,91,Asia
+IND,India,Aurangabad,743,91,Asia
+IND,India,Yavatmal,153,91,Asia
+IRN,Iran (Islamic Republic of),Qaem shahr,152,91,Asia
+MMR,Myanmar,Monywa,152,91,Asia
+SDN,Sudan,Juba,155,91,Africa
+VNM,Viet Nam,Vinh,211,91,Asia
+CHN,China,Changde,1781,90,Asia
+CHN,China,Huainan,1552,90,Asia
+CHN,China,Jiamusi,941,90,Asia
+CHN,China,Yiyang,528,90,Asia
+CIV,Côte d'Ivoire,Bouake,564,90,Africa
+ETH,Ethiopia,Gondar,216,90,Africa
+GEO,Georgia,Rustavi,158,90,Asia
+IND,India,Anand,219,90,Asia
+IND,India,Mahesana,138,90,Asia
+IND,India,Murwara (Katni),205,90,Asia
+IDN,Indonesia,Cirebon,311,90,Asia
+TKM,Turkmenistan,Tashauz,135,90,Asia
+UZB,Uzbekistan,Urgentch,140,90,Asia
+CHN,China,Changzhou,922,89,Asia
+CHN,China,Chuzhou,527,89,Asia
+CHN,China,Hohhoit,1186,89,Asia
+CHN,China,Homa,225,89,Asia
+CHN,China,Lianyungang,679,89,Asia
+CHN,China,Tieling,1387,89,Asia
+CHN,China,Xiantao,1720,89,Asia
+CHN,China,Zhenjiang,1617,89,Asia
+ETH,Ethiopia,Dessie,152,89,Africa
+IND,India,Jabalpur,1115,89,Asia
+IRN,Iran (Islamic Republic of),Gorgan,203,89,Asia
+SAU,Saudi Arabia,Ta'if,902,89,Asia
+SYR,Syrian Arab Republic,Al-Rakka,164,89,Asia
+ARE,United Arab Emirates,Sharjah,353,89,Asia
+DZA,Algeria,Constantine,479,88,Africa
+CHN,China,Baicheng,423,88,Asia
+CHN,China,Changchun,3766,88,Asia
+CHN,China,Changji,261,88,Asia
+CHN,China,Datong,1614,88,Asia
+CHN,China,Lu'an,242,88,Asia
+CHN,China,Neijiang,1629,88,Asia
+CHN,China,Wuhu,699,88,Asia
+CHN,China,Xiaocan,1586,88,Asia
+CHN,China,Yangzhou,3499,88,Asia
+CHN,China,Zhumadian,315,88,Asia
+CHN,China,Zibo,3139,88,Asia
+EGY,Egypt,Aswan,257,88,Africa
+IND,India,Amritsar,889,88,Asia
+IND,India,Bharuch,174,88,Asia
+IND,India,Bhilai Nagar,860,88,Asia
+IND,India,English Bazar,222,88,Asia
+DZA,Algeria,Annaba,361,87,Africa
+CHN,China,Guilin,704,87,Asia
+CHN,China,Jiuquan,372,87,Asia
+CHN,China,Mianyang,2149,87,Asia
+CHN,China,Shanghai,10367,87,Asia
+CHN,China,Shangzhou,646,87,Asia
+CHN,China,Tongling,324,87,Asia
+CHN,China,Wuxi,4020,87,Asia
+IND,India,Chandrapur,284,87,Asia
+IND,India,Durgapur,534,87,Asia
+IND,India,Nadiad,213,87,Asia
+IDN,Indonesia,Pematang Siantar,273,87,Asia
+ARE,United Arab Emirates,Dubai,749,87,Asia
+DZA,Algeria,El Asnam,186,86,Africa
+AZE,Azerbaijan,Sumgait,264,86,Asia
+BGD,Bangladesh,Dinajpur,175,86,Asia
+BGD,Bangladesh,Rangpur,282,86,Asia
+CHN,China,Aksu,308,86,Asia
+CHN,China,Danjiangkou,582,86,Asia
+CHN,China,Deyang,1626,86,Asia
+CHN,China,Suihua,973,86,Asia
+CHN,China,Taonan,646,86,Asia
+CHN,China,Xiangtan,1934,86,Asia
+CHN,China,Xichang,608,86,Asia
+CHN,China,Xinzhu,548,86,Asia
+CHN,China,Yingkow,722,86,Asia
+GNB,Guinea Bissau,BISSAU,274,86,Africa
+IND,India,Dabgram,185,86,Asia
+SYR,Syrian Arab Republic,Al-Kamishli,134,86,Asia
+UZB,Uzbekistan,TASHKENT,2266,86,Asia
+CHN,China,Jinchang,855,85,Asia
+CHN,China,Jinxi,1706,85,Asia
+CHN,China,Shishou,732,85,Asia
+EGY,Egypt,El-Mahalla El-Kubra,476,85,Africa
+IND,India,Bhind,138,85,Asia
+IND,India,Hoshiarpur,154,85,Asia
+IND,India,Jamshedpur,1040,85,Asia
+IND,India,Mathura,296,85,Asia
+IDN,Indonesia,Gorontalo,157,85,Asia
+IDN,Indonesia,Madiun,126,85,Asia
+IDN,Indonesia,Mojokerto,202,85,Asia
+MMR,Myanmar,YANGON,4101,85,Asia
+UZB,Uzbekistan,Bukhara,247,85,Asia
+VNM,Viet Nam,Thai Nguyen,207,85,Asia
+CHN,China,Anlu,705,84,Asia
+CHN,China,Benxi,1185,84,Asia
+CHN,China,Chaoyang,1250,84,Asia
+CHN,China,Guiyang,2103,84,Asia
+CHN,China,Hailun,927,84,Asia
+CHN,China,Kunming,2037,84,Asia
+CHN,China,Lhasa,177,84,Asia
+CHN,China,Ma'anshan,562,84,Asia
+CHN,China,Panzhihua,798,84,Asia
+CHN,China,Tianmen,1875,84,Asia
+CHN,China,Xinyang,345,84,Asia
+CHN,China,Zigong,1235,84,Asia
+GEO,Georgia,Batumi,135,84,Asia
+IND,India,Pathankot,161,84,Asia
+IND,India,Sambalpur,242,84,Asia
+LKA,Sri Lanka,Galle,138,84,Asia
+TJK,Tajikistan,Kodzhent,163,84,Asia
+ZMB,Zambia,LUSAKA,1454,84,Africa
+DZA,Algeria,Batna,251,83,Africa
+DZA,Algeria,Skikda,158,83,Africa
+BGR,Bulgaria,SOFIA,1177,83,Europe
+CHN,China,Beidong,1007,83,Asia
+CHN,China,Chaohu,960,83,Asia
+CHN,China,Jilin,2845,83,Asia
+CHN,China,Maoming,673,83,Asia
+CHN,China,Mudangiang,948,83,Asia
+CHN,China,Siping,1763,83,Asia
+CHN,China,Zhanjiang,1325,83,Asia
+GEO,Georgia,Kutaisi,233,83,Asia
+IND,India,Ranchi,771,83,Asia
+IND,India,Shillong,280,83,Asia
+NGA,Nigeria,Enugu,513,83,Africa
+SEN,Senegal,DAKAR,2029,83,Africa
+CHN,China,Baihua,617,82,Asia
+CHN,China,Ezhou,1127,82,Asia
+CHN,China,Fuxin,939,82,Asia
+CHN,China,Macheng,1335,82,Asia
+CHN,China,Yan'an,401,82,Asia
+CHN,China,Yibin,866,82,Asia
+CHN,China,Yuanjiang,814,82,Asia
+CHN,China,Yulin (Shanxi),467,82,Asia
+CHN,China,Zhaotang,783,82,Asia
+COG,Congo,BRAZZAVILLE,1186,82,Africa
+PRK,Democratic People's Republic of Korea,Kaesong,396,82,Asia
+IND,India,Bulandshahr,160,82,Asia
+IND,India,Pali,172,82,Asia
+IND,India,Tonk,126,82,Asia
+NGA,Nigeria,Abeokuta,695,82,Africa
+NGA,Nigeria,Calabar,284,82,Africa
+THA,Thailand,BANGKOK,7296,82,Asia
+UZB,Uzbekistan,Karshi,176,82,Asia
+BEN,Benin,Djougou,186,81,Africa
+TCD,Chad,Bongor,129,81,Africa
+CHN,China,Chaozhou,1634,81,Asia
+CHN,China,Foshan,543,81,Asia
+CHN,China,Honghu,940,81,Asia
+CHN,China,Hua,429,81,Asia
+CHN,China,Luzhou,521,81,Asia
+CHN,China,Qianjiang,844,81,Asia
+CHN,China,Qinhuangdo,656,81,Asia
+CHN,China,Shuangcheng,933,81,Asia
+CHN,China,Wuzhou,378,81,Asia
+CHN,China,Yongzhou,1195,81,Asia
+CHN,China,Zhangshu,618,81,Asia
+CHN,China,Zhangzhou,432,81,Asia
+ETH,Ethiopia,Harar,160,81,Africa
+IND,India,Bhavnagar,508,81,Asia
+IND,India,Rewa,162,81,Asia
+IDN,Indonesia,Pangkal Pinang,147,81,Asia
+IDN,Indonesia,Samarinda,635,81,Asia
+IDN,Indonesia,Surakarta,611,81,Asia
+IRN,Iran (Islamic Republic of),Ahwaz,944,81,Asia
+DZA,Algeria,Guelma,113,80,Africa
+CHL,Chile,Iquique,163,80,Americas
+CHN,China,Anda,572,80,Asia
+CHN,China,Daxian,373,80,Asia
+CHN,China,Enshi,900,80,Asia
+CHN,China,Lianyuan,1272,80,Asia
+CHN,China,Pinxiang,1754,80,Asia
+CHN,China,Rizhao,1298,80,Asia
+CHN,China,Shaoguan,399,80,Asia
+CHN,China,Weifang,3838,80,Asia
+CHN,China,Yueyang,1362,80,Asia
+CHN,China,Zhuzhou,1923,80,Asia
+ERI,Eritrea,ASMARA,535,80,Africa
+IND,India,Dehradun,462,80,Asia
+IND,India,Wardha,129,80,Asia
+IDN,Indonesia,Sukabumi,148,80,Asia
+NGA,Nigeria,Ilesha,788,80,Africa
+UZB,Uzbekistan,Samarkand,400,80,Asia
+DZA,Algeria,ALGER,1575,79,Africa
+CHN,China,Daqing,1259,79,Asia
+CHN,China,Dongying,814,79,Asia
+CHN,China,Fengcheng,1287,79,Asia
+CHN,China,Fuzhou (Fujian Sheng),1763,79,Asia
+CHN,China,Guangyuan,1086,79,Asia
+CHN,China,Hengyang,2293,79,Asia
+CHN,China,Jixi,1056,79,Asia
+CHN,China,Ningbo,4233,79,Asia
+CHN,China,Quzhou,919,79,Asia
+CHN,China,Taipei,3227,79,Asia
+CHN,China,Wuxue,819,79,Asia
+CHN,China,Xinji,735,79,Asia
+CHN,China,Yichun (Jiangxi Sheng),1056,79,Asia
+CHN,China,Zhangjiakou,909,79,Asia
+IND,India,Abohar,134,79,Asia
+IND,India,Bokaro Steel City,500,79,Asia
+IND,India,Bombay,15797,79,Asia
+IND,India,Damoh,132,79,Asia
+IND,India,Indore,1391,79,Asia
+IND,India,Sambhal,189,79,Asia
+IDN,Indonesia,Probolinggo,225,79,Asia
+IRN,Iran (Islamic Republic of),Esfahan,1390,79,Asia
+PER,Peru,Arequipa,749,79,Americas
+SAU,Saudi Arabia,Dammam,563,79,Asia
+VNM,Viet Nam,Viettri,140,79,Asia
+DZA,Algeria,Bejaia,152,78,Africa
+BGR,Bulgaria,Stara Zagora,174,78,Europe
+CMR,Cameroon,Douala,1579,78,Africa
+CHN,China,Dongsen,186,78,Asia
+CHN,China,Hangzhou,3272,78,Asia
+CHN,China,Heihe,156,78,Asia
+CHN,China,Huzhou,1298,78,Asia
+CHN,China,Qingyuan,1217,78,Asia
+CHN,China,Qitaihe,562,78,Asia
+CHN,China,Ulan Hot,289,78,Asia
+CHN,China,Xinyu,768,78,Asia
+CHN,China,Yingcheng,738,78,Asia
+PRK,Democratic People's Republic of Korea,Hamhung,856,78,Asia
+ETH,Ethiopia,Diredawa,253,78,Africa
+IND,India,Ahmednagar,279,78,Asia
+IND,India,Batala,130,78,Asia
+IND,India,Haldwani-cum-Kathgodam,131,78,Asia
+IDN,Indonesia,Blitar,145,78,Asia
+IDN,Indonesia,Kediri,309,78,Asia
+IDN,Indonesia,Manado,472,78,Asia
+IRN,Iran (Islamic Republic of),Karaj,670,78,Asia
+IRN,Iran (Islamic Republic of),Rajai shahr,220,78,Asia
+TKM,Turkmenistan,Chardzhou,194,78,Asia
+DZA,Algeria,El Djelfa,160,77,Africa
+DZA,Algeria,Setif,220,77,Africa
+BGD,Bangladesh,Barisal,226,77,Asia
+CHN,China,Fujin,444,77,Asia
+CHN,China,Ji'an,364,77,Asia
+CHN,China,Shouzhou,594,77,Asia
+DZA,Algeria,Mestghanem (Mostaganem),129,76,Africa
+AZE,Azerbaijan,Giyandja,316,76,Asia
+BGR,Bulgaria,Plévène,158,76,Europe
+CHN,China,Artux,207,76,Asia
+CHN,China,Botou,1552,76,Asia
+CHN,China,Da'an,510,76,Asia
+CHN,China,Guangshui,1033,76,Asia
+CHN,China,Guichi,721,76,Asia
+CHN,China,Heyuan,688,76,Asia
+CHN,China,Jingdezhen,467,76,Asia
+CHN,China,Lengshuijiang,400,76,Asia
+CHN,China,Loudi,380,76,Asia
+CHN,China,Puqi,526,76,Asia
+CHN,China,Wenzhou,2085,76,Asia
+EGY,Egypt,Giza,2504,76,Africa
+IND,India,Bhatpara,382,76,Asia
+IND,India,Bid,141,76,Asia
+IND,India,Mirzapur-cum-Vindhyachal,212,76,Asia
+IND,India,Raiganj,200,76,Asia
+IND,India,Ujjain,455,76,Asia
+IDN,Indonesia,Banda Aceh,345,76,Asia
+IDN,Indonesia,Bandar Lampung,985,76,Asia
+THA,Thailand,Khon Kaen,256,76,Asia
+ZWE,Zimbabwe,HARARE,1554,76,Africa
+DZA,Algeria,El Wad,109,75,Africa
+DZA,Algeria,Jijel,110,75,Africa
+BGD,Bangladesh,Saidpur,141,75,Asia
+CHN,China,Chuxiong,519,75,Asia
+CHN,China,Guangzhou,4950,75,Asia
+CHN,China,Lengshuitan,510,75,Asia
+CHN,China,Liaoyuan,519,75,Asia
+CHN,China,Linhai,1239,75,Asia
+CHN,China,Tieli,410,75,Asia
+CHN,China,Yining,325,75,Asia
+CHN,China,Zalantun,508,75,Asia
+IND,India,Dhanbad,1022,75,Asia
+IND,India,Nashik,910,75,Asia
+IDN,Indonesia,Binjai,245,75,Asia
+IRN,Iran (Islamic Republic of),Masjed Soleyman,124,75,Asia
+IRN,Iran (Islamic Republic of),Orumiyeh,452,75,Asia
+BOL,Bolivia,SUCRE,179,74,Americas
+CHL,Chile,Viña del Mar,344,74,Americas
+CHN,China,Chengde,462,74,Asia
+CHN,China,Ganzhou,495,74,Asia
+CHN,China,Hailer,252,74,Asia
+CHN,China,Hechi,366,74,Asia
+CHN,China,Jinhua,2799,74,Asia
+CHN,China,Jisou,291,74,Asia
+CHN,China,Kao-hsiung,1683,74,Asia
+CHN,China,Linchuan,1103,74,Asia
+CHN,China,Meizhou,293,74,Asia
+CHN,China,Sanmenxia,391,74,Asia
+CHN,China,Shangrao,212,74,Asia
+CHN,China,Shaoyang,660,74,Asia
+CHN,China,Ya'an,376,74,Asia
+IND,India,Asansol,958,74,Asia
+IND,India,Brahmapur,264,74,Asia
+IND,India,Gondiya,137,74,Asia
+IDN,Indonesia,Pasuruan,193,74,Asia
+IRN,Iran (Islamic Republic of),Arak,431,74,Asia
+MMR,Myanmar,Pegu,214,74,Asia
+NCL,New Caledonia,NOUMEA,153,74,Oceania
+PER,Peru,LIMA,7877,74,Americas
+THA,Thailand,Nakhon Sawan,189,74,Asia
+VNM,Viet Nam,Da Nang,445,74,Asia
+YEM,Yemen,Aden,543,74,Asia
+DZA,Algeria,Bordj Bou Arreridj,133,73,Africa
+CHL,Chile,SANTIAGO,4522,73,Americas
+CHN,China,Qingdo,6475,73,Asia
+CHN,China,Zicheng,486,73,Asia
+ETH,Ethiopia,Jimma,156,73,Africa
+IND,India,Agartala,197,73,Asia
+IND,India,Bellary,308,73,Asia
+IND,India,Gandhinagar,155,73,Asia
+IND,India,Jamnagar,479,73,Asia
+IND,India,Nanded,388,73,Asia
+IND,India,Nizamabad,302,73,Asia
+IND,India,Porbandar,201,73,Asia
+IRN,Iran (Islamic Republic of),Amol,176,73,Asia
+IRN,Iran (Islamic Republic of),Yazd,349,73,Asia
+THA,Thailand,Ubon Ratchathani,170,73,Asia
+UZB,Uzbekistan,Fergana,214,73,Asia
+DZA,Algeria,Béchar,136,72,Africa
+DZA,Algeria,El Eulma,109,72,Africa
+DZA,Algeria,Lemdiyya (Medea),128,72,Africa
+DZA,Algeria,Tbessa,159,72,Africa
+BRA,Brazil,Aparecida de Goiania,283,72,Americas
+CHN,China,Boshan,913,72,Asia
+CHN,China,Dongwan,2194,72,Asia
+CHN,China,Huizhou,347,72,Asia
+CHN,China,Linhe,538,72,Asia
+CHN,China,Nanning,1464,72,Asia
+CHN,China,Qujing,1041,72,Asia
+CHN,China,Shaoxing,1606,72,Asia
+CHN,China,Shiyan,506,72,Asia
+CHN,China,Yulin (Hunan),1672,72,Asia
+ETH,Ethiopia,Bahir Dar,150,72,Africa
+IND,India,Akola,411,72,Asia
+IND,India,Kharagpur,332,72,Asia
+IND,India,Ondal,265,72,Asia
+IND,India,Santipur,138,72,Asia
+IND,India,Solapur,779,72,Asia
+IRN,Iran (Islamic Republic of),Khvoy,175,72,Asia
+IRN,Iran (Islamic Republic of),Zahedan,478,72,Asia
+MWI,Malawi,LILONGWE,475,72,Africa
+DZA,Algeria,Oran,718,71,Africa
+BRA,Brazil,BRASILIA,1799,71,Americas
+BRA,Brazil,Sao Joao de Meriti,462,71,Americas
+CHN,China,Huangshi,690,71,Asia
+CHN,China,Jiaxing,1717,71,Asia
+CHN,China,Jiayuguan,139,71,Asia
+CHN,China,Suzhou,4135,71,Asia
+CHN,China,Tongren,359,71,Asia
+CHN,China,Xiannin,575,71,Asia
+IND,India,Proddatur,168,71,Asia
+IRN,Iran (Islamic Republic of),TEHRAN,7689,71,Asia
+MNG,Mongolia,ULAANBAATAR,716,71,Asia
+PER,Peru,Callao,722,71,Americas
+SYR,Syrian Arab Republic,Deir El-Zor,158,71,Asia
+UZB,Uzbekistan,Djizak,117,71,Asia
+BHR,Bahrain,MANAMA,171,70,Asia
+BRA,Brazil,Goiânia,1060,70,Americas
+BGR,Bulgaria,Varna,310,70,Europe
+CHN,China,Chenzhou,296,70,Asia
+CHN,China,Fulin,1269,70,Asia
+CHN,China,Kaiyuan,314,70,Asia
+CHN,China,Liupanshui,2330,70,Asia
+CHN,China,Liuzhou,949,70,Asia
+CHN,China,Tainan,831,70,Asia
+CHN,China,Yintan,171,70,Asia
+IND,India,Balurghat,158,70,Asia
+IND,India,Bilaspur,288,70,Asia
+IND,India,Raniganj,195,70,Asia
+IND,India,Ratlam,246,70,Asia
+IND,India,Sagar,322,70,Asia
+IDN,Indonesia,Pare Pare,130,70,Asia
+IDN,Indonesia,Tanjung Karang,706,70,Asia
+IRN,Iran (Islamic Republic of),Ardabil,376,70,Asia
+IRN,Iran (Islamic Republic of),Mashhad,2238,70,Asia
+KGZ,Kyrgyzstan,Osh,215,70,Asia
+DZA,Algeria,Souq Ahras,120,69,Africa
+DZA,Algeria,Tihert,151,69,Africa
+ARG,Argentina,Salta,422,69,Americas
+ARM,Armenia,Leninakan,213,69,Asia
+KHM,Cambodia,PHNOM PENH,919,69,Asia
+TCD,Chad,Sarh,176,69,Africa
+CHL,Chile,Puente Alto,341,69,Americas
+CHN,China,Dong chuan,353,69,Asia
+CHN,China,Hsintien,288,69,Asia
+CHN,China,Mishan,464,69,Asia
+CHN,China,Yichun (Heilongjiang Sheng),1115,69,Asia
+CHN,China,Yuxi,406,69,Asia
+GIN,Guinea,CONAKRY,1764,69,Africa
+IND,India,Nagpur,2087,69,Asia
+IDN,Indonesia,Tebing Tinggi,153,69,Asia
+IRN,Iran (Islamic Republic of),Mehrshahr,471,69,Asia
+IRN,Iran (Islamic Republic of),Qom,889,69,Asia
+IRN,Iran (Islamic Republic of),Shiraz,1188,69,Asia
+IRN,Iran (Islamic Republic of),Tabriz,1329,69,Asia
+LAO,Lao People's Democratic Republic,Savannakhet,209,69,Asia
+MEX,Mexico,Cd. De México,18017,69,Americas
+MMR,Myanmar,Bassein,205,69,Asia
+THA,Thailand,Nakhon Ratchasima,345,69,Asia
+DZA,Algeria,Ghardaïa,115,68,Africa
+CHN,China,Hetian,174,68,Asia
+CHN,China,Jiaojing,498,68,Asia
+CHN,China,Jingmen,1285,68,Asia
+CHN,China,Lichuan,966,68,Asia
+CHN,China,Lishui,409,68,Asia
+CHN,China,Shenzhen,1106,68,Asia
+CHN,China,Zunyi,495,68,Asia
+CIV,Côte d'Ivoire,Daloa,199,68,Africa
+IND,India,Guntakal,135,68,Asia
+IND,India,Jorhat,140,68,Asia
+IND,India,Krishnanagar,152,68,Asia
+IND,India,Raipur,580,68,Asia
+IND,India,Raurkela,500,68,Asia
+IRN,Iran (Islamic Republic of),Qazvin,340,68,Asia
+CHN,China,Anshun,831,67,Asia
+CHN,China,Baise,376,67,Asia
+CHN,China,Haikou,518,67,Asia
+CHN,China,Huangyan,1123,67,Asia
+CHN,China,Quanzhou,951,67,Asia
+CHN,China,Shangzhi,675,67,Asia
+GHA,Ghana,Tamale,253,67,Africa
+IND,India,Cuddapah,271,67,Asia
+IND,India,Kurnool,345,67,Asia
+IND,India,Visakhapatnam,1326,67,Asia
+PAN,Panama,San Miguelito,316,67,Americas
+QAT,Qatar,DOHA,391,67,Asia
+ESP,Spain,Alicante,276,67,Europe
+VNM,Viet Nam,Ho Chi Minh,4719,67,Asia
+CHN,China,Duyan,527,66,Asia
+CHN,China,Jiangmen,360,66,Asia
+CHN,China,Kaili,483,66,Asia
+CHN,China,Yakumshi,526,66,Asia
+IND,India,Adoni,171,66,Asia
+IND,India,Godhra,126,66,Asia
+IND,India,Kamptee,159,66,Asia
+IND,India,Khandwa,182,66,Asia
+IND,India,Ranaghat,159,66,Asia
+IND,India,Warangal,587,66,Asia
+IRN,Iran (Islamic Republic of),Khoramabad,316,66,Asia
+ISR,Israel,Haifa,530,66,Asia
+SEN,Senegal,Zinqunichor,200,66,Africa
+TUN,Tunisia,Gabes,113,66,Africa
+ZMB,Zambia,Kitwe,420,66,Africa
+DZA,Algeria,Wargla,134,65,Africa
+CHL,Chile,Quilpué,118,65,Americas
+CHN,China,Manzhouli,174,65,Asia
+CHN,China,Nanping,590,65,Asia
+CHN,China,Putian,393,65,Asia
+CHN,China,Yanji,370,65,Asia
+IND,India,Bihar Sharif,252,65,Asia
+IRN,Iran (Islamic Republic of),Zanjan,320,65,Asia
+MEX,Mexico,Ciudad Obregón,263,65,Americas
+NGA,Nigeria,Lagos,12326,65,Africa
+LKA,Sri Lanka,Kandy,124,65,Asia
+TUR,Turkey,Osmaniye,160,65,Asia
+ZMB,Zambia,Luanshya,182,65,Africa
+DZA,Algeria,Khenchla,110,64,Africa
+BRA,Brazil,Governador Valadares,235,64,Americas
+CHN,China,Beihai,290,64,Asia
+CHN,China,Dangyang,564,64,Asia
+CHN,China,Dongshan,1785,64,Asia
+CHN,China,Nantong,2024,64,Asia
+CHN,China,Sanming,740,64,Asia
+CHN,China,Zhuhai,418,64,Asia
+IND,India,Nabadwip,196,64,Asia
+IDN,Indonesia,Pontianak,532,64,Asia
+IDN,Indonesia,Tanjung Balai,136,64,Asia
+IRN,Iran (Islamic Republic of),Sirjan,137,64,Asia
+MEX,Mexico,Acapulco,617,64,Americas
+ESP,Spain,Córdoba,315,64,Europe
+THA,Thailand,Saraburi,133,64,Asia
+VNM,Viet Nam,Hon Gai,156,64,Asia
+DZA,Algeria,Sidi-bel-Abbès,187,63,Africa
+ARG,Argentina,San Miguel de Tucumán,712,63,Americas
+CMR,Cameroon,Bafoussam,182,63,Africa
+CHL,Chile,Valparaiso,302,63,Americas
+CHN,China,Chang-hua,263,63,Asia
+CHN,China,Qinzhou,1254,63,Asia
+CHN,China,Shaown,377,63,Asia
+CHN,China,Zhangye,544,63,Asia
+PRK,Democratic People's Republic of Korea,Anju,262,63,Asia
+IRN,Iran (Islamic Republic of),Borujerd,242,63,Asia
+IRN,Iran (Islamic Republic of),Dezful,230,63,Asia
+JOR,Jordan,AMMAN,1388,63,Asia
+PHL,Philippines,Caloocan,780,63,Asia
+PHL,Philippines,Malabon,406,63,Asia
+SLE,Sierra Leone,FREETOWN,822,63,Africa
+ARE,United Arab Emirates,ABU DHABI,904,63,Asia
+UZB,Uzbekistan,Chirchik,172,63,Asia
+ZMB,Zambia,Kabwe,207,63,Africa
+ZMB,Zambia,Ndola,467,63,Africa
+CMR,Cameroon,YAOUNDE,1339,62,Africa
+TCD,Chad,Moundou,158,62,Africa
+CHN,China,Jining(Shanxi Sheng),244,62,Asia
+CHN,China,Tanchun,232,62,Asia
+CHN,China,Yantai,4049,62,Asia
+CIV,Côte d'Ivoire,YAMOUSSOUKRO,196,62,Africa
+IND,India,Farrukhabad Cum Fategarh,262,62,Asia
+IND,India,Gulbarga,390,62,Asia
+IND,India,Guntur,591,62,Asia
+IND,India,Medinipur,157,62,Asia
+IRN,Iran (Islamic Republic of),Maragheh,147,62,Asia
+MEX,Mexico,Puebla de Zaragoza,1516,62,Americas
+MMR,Myanmar,Moulmein,313,62,Asia
+TUR,Turkey,Adana,1813,62,Asia
+TUR,Turkey,Istanbul,9286,62,Asia
+UZB,Uzbekistan,Navoi,119,62,Asia
+VNM,Viet Nam,Campha,153,62,Asia
+ZWE,Zimbabwe,Mutare,172,62,Africa
+CHN,China,Changhwa,263,61,Asia
+CHN,China,Dali,546,61,Asia
+CHN,China,Dunhua,603,61,Asia
+CHN,China,Fuan,664,61,Asia
+CHN,China,Hegang,817,61,Asia
+CHN,China,Pingtung,255,61,Asia
+CHN,China,Urumqi,1467,61,Asia
+ZAR,Democratic Republic of the Congo,Lubumbashi,937,61,Africa
+HND,Honduras,TEGUCIGALPA,919,61,Americas
+IND,India,Bhubaneswar,516,61,Asia
+IND,India,Kakinada,411,61,Asia
+IND,India,Munger,188,61,Asia
+IND,India,Parbhani,239,61,Asia
+IND,India,Phusro,179,61,Asia
+IND,India,Rohtak,271,61,Asia
+IRN,Iran (Islamic Republic of),Bushehr,160,61,Asia
+IRN,Iran (Islamic Republic of),Sabzewar,183,61,Asia
+TUR,Turkey,Edirne,278,61,Asia
+VNM,Viet Nam,Hué,313,61,Asia
+AFG,Afghanistan,Mazar-i-Sharif,238,60,Asia
+DZA,Algeria,Saïda,115,60,Africa
+BGR,Bulgaria,Slivène,143,60,Europe
+CHN,China,Dalian,4389,60,Asia
+CHN,China,Panjin,541,60,Asia
+CHN,China,Weihai,2190,60,Asia
+CHN,China,Yangjiang,1098,60,Asia
+ZAR,Democratic Republic of the Congo,KINSHASA,4903,60,Africa
+IND,India,Cuttack,552,60,Asia
+IND,India,Jalna,219,60,Asia
+IND,India,Karimnagar,186,60,Asia
+IND,India,Nandyal,150,60,Asia
+IRN,Iran (Islamic Republic of),Kerman,398,60,Asia
+MEX,Mexico,Naucalpan,925,60,Americas
+MEX,Mexico,Toluca,982,60,Americas
+PHL,Philippines,MANILA,10432,60,Asia
+ESP,Spain,Hospitalet de Llobregat,281,60,Europe
+VNM,Viet Nam,Nhatrang,316,60,Asia
+ZMB,Zambia,Chingola,202,60,Africa
+ZWE,Zimbabwe,Gweru,167,60,Africa
+BRA,Brazil,Rondonópolis,138,59,Americas
+BGR,Bulgaria,Bourgas,211,59,Europe
+BGR,Bulgaria,Dobritch,104,59,Europe
+CHL,Chile,Concepción,374,59,Americas
+CHL,Chile,La Serena,126,59,Americas
+CHN,China,Hunjiang,912,59,Asia
+CHN,China,Sanya,388,59,Asia
+CHN,China,Taizhong,952,59,Asia
+ZAR,Democratic Republic of the Congo,Boma,346,59,Africa
+IND,India,Burhanpur,217,59,Asia
+IND,India,Patratu,138,59,Asia
+IND,India,Raichur,214,59,Asia
+IND,India,Rajkot,821,59,Asia
+IDN,Indonesia,Jayapura,214,59,Asia
+IRN,Iran (Islamic Republic of),Islam Shahr (Qasemabad),273,59,Asia
+IRN,Iran (Islamic Republic of),Kermanshah,758,59,Asia
+IRN,Iran (Islamic Republic of),Neyshabur,176,59,Asia
+NGA,Nigeria,Iseyin,353,59,Africa
+PER,Peru,Tacna,183,59,Americas
+PHL,Philippines,Zamboanga,564,59,Asia
+POL,Poland,Kraków,777,59,Europe
+TUR,Turkey,Içel,1113,59,Asia
+VNM,Viet Nam,Cantho,342,59,Asia
+BRA,Brazil,Anápolis,260,58,Americas
+CHL,Chile,Talca,181,58,Americas
+CHN,China,Ninde,456,58,Asia
+CHN,China,Sifen,1247,58,Asia
+CHN,China,Xuanzhou,971,58,Asia
+GEO,Georgia,Sukhumi,121,58,Asia
+IND,India,Pune,3128,58,Asia
+IND,India,Rajnandgaon,157,58,Asia
+IND,India,Silchar,145,58,Asia
+IDN,Indonesia,Batam,199,58,Asia
+IRN,Iran (Islamic Republic of),Hamadan,463,58,Asia
+NGA,Nigeria,Port Harcourt,667,58,Africa
+SDN,Sudan,Port Sudan,413,58,Africa
+TJK,Tajikistan,DUSHANBE,548,58,Asia
+TUR,Turkey,Gaziantep,1162,58,Asia
+TUR,Turkey,Tarsus,262,58,Asia
+TUR,Turkey,Trabzon,391,58,Asia
+VNM,Viet Nam,Longxuyen,257,58,Asia
+VNM,Viet Nam,Mytho,179,58,Asia
+ZMB,Zambia,Mufulira,190,58,Africa
+CHL,Chile,Antofagasta,253,57,Americas
+CHL,Chile,Talcahuano,279,57,Americas
+CHN,China,Hualien,128,57,Asia
+CHN,China,Longzing,353,57,Asia
+CHN,China,Tumen,155,57,Asia
+CIV,Côte d'Ivoire,Abidjan,3003,57,Africa
+IND,India,Amravati,529,57,Asia
+IND,India,Barddhaman,307,57,Asia
+IND,India,Puri,157,57,Asia
+IND,India,Salem,725,57,Asia
+IRN,Iran (Islamic Republic of),Khomeini Shahr,145,57,Asia
+IRN,Iran (Islamic Republic of),Sanandaj,309,57,Asia
+MEX,Mexico,Mexicali,525,57,Americas
+PHL,Philippines,Valenzuela,493,57,Asia
+THA,Thailand,Nonthaburi,289,57,Asia
+TUN,Tunisia,Sfax,264,57,Africa
+TUR,Turkey,Iskenderun,176,57,Asia
+TKM,Turkmenistan,ASHKHABAD,483,57,Asia
+UZB,Uzbekistan,Almalyk,126,57,Asia
+VNM,Viet Nam,Bien Hoa,275,57,Asia
+VNM,Viet Nam,Quang Ngai,107,57,Asia
+ARM,Armenia,Kirovakan,175,56,Asia
+CHN,China,Gejiu,486,56,Asia
+CHN,China,Shantou,1118,56,Asia
+CHN,China,Xifeng,342,56,Asia
+CYP,Cyprus,Limassol,163,56,Asia
+IND,India,Bangalore,5180,56,Asia
+IDN,Indonesia,Salatiga,122,56,Asia
+KEN,Kenya,Nakuru,295,56,Africa
+MEX,Mexico,Ecatepec,1459,56,Americas
+PHL,Philippines,Paranaque,447,56,Asia
+TUR,Turkey,Bursa,1648,56,Asia
+TUR,Turkey,Ordu,473,56,Asia
+DZA,Algeria,Ghilizane,108,55,Africa
+CHN,China,Beian,434,55,Asia
+CHN,China,Xiamen,808,55,Asia
+CYP,Cyprus,NICOSIA,211,55,Asia
+IND,India,Ramagundam,269,55,Asia
+IRN,Iran (Islamic Republic of),Malayer,171,55,Asia
+MEX,Mexico,La Paz,165,55,Americas
+MEX,Mexico,Orizaba,270,55,Americas
+MEX,Mexico,Torreón,809,55,Americas
+TUR,Turkey,Elazig,348,55,Asia
+VNM,Viet Nam,Qui Nhon,243,55,Asia
+ARG,Argentina,San Juan,405,54,Americas
+BRA,Brazil,Osasco,662,54,Americas
+CHL,Chile,Chillán,168,54,Americas
+CHL,Chile,Rancagua,207,54,Americas
+CHN,China,Fenyuan Shie,187,54,Asia
+CHN,China,Shanwei,435,54,Asia
+CHN,China,Wuwei,1092,54,Asia
+IND,India,Bhusawal,200,54,Asia
+IND,India,Hospet,169,54,Asia
+IND,India,Tirupati,237,54,Asia
+IND,India,Ulhasnagar,463,54,Asia
+ISR,Israel,Holon,186,54,Asia
+JAM,Jamaica,KINGSTON,675,54,Americas
+LSO,Lesotho,MASERU,373,54,Africa
+MEX,Mexico,Los Mochis,195,54,Americas
+PRY,Paraguay,Fernando de la Mora,126,54,Americas
+PHL,Philippines,Las Pinas,462,54,Asia
+ESP,Spain,Santa Coloma de Gramanet,137,54,Europe
+TUR,Turkey,Adapazari,421,54,Asia
+TUR,Turkey,Izmir,2877,54,Asia
+TUR,Turkey,Malatya,507,54,Asia
+TUR,Turkey,Sakarya,393,54,Asia
+UZB,Uzbekistan,Nukus,189,54,Asia
+ARG,Argentina,San Salvador de Jujuy,209,53,Americas
+BOL,Bolivia,Santa Cruz,945,53,Americas
+CHL,Chile,Arica,185,53,Americas
+CHN,China,Houzhou,314,53,Asia
+CHN,China,Longyan,548,53,Asia
+CHN,China,Shuangyashan,594,53,Asia
+CHN,China,Taoyuan,301,53,Asia
+CHN,China,Tonghua,1515,53,Asia
+PRK,Democratic People's Republic of Korea,Chongjin,677,53,Asia
+ZAR,Democratic Republic of the Congo,Likasi (Jadotville),374,53,Africa
+GRC,Greece,Calithèa,120,53,Europe
+GTM,Guatemala,GUATEMALA,2199,53,Americas
+IND,India,Kolar Gold Fields,197,53,Asia
+IND,India,Kothagudem,128,53,Asia
+IND,India,Thane,1008,53,Asia
+IRN,Iran (Islamic Republic of),Bojnurd,143,53,Asia
+ISR,Israel,Bene Beraq,143,53,Asia
+ISR,Israel,Ramat Gan,139,53,Asia
+ITA,Italy,Torino,969,53,Europe
+ITA,Italy,Venezia,311,53,Europe
+LBN,Lebanon,Sayda,134,53,Asia
+MDG,Madagascar,ANTANANARIVO,1524,53,Africa
+MDG,Madagascar,Antsirabe,174,53,Africa
+MEX,Mexico,Oaxaca de Juárez,353,53,Americas
+NAM,Namibia,WINDHOEK,202,53,Africa
+NPL,Nepal,KATHMANDU,642,53,Asia
+ESP,Spain,Badalona,225,53,Europe
+TUR,Turkey,ANKARA,3702,53,Asia
+TUR,Turkey,Kahramanmaras,529,53,Asia
+ARG,Argentina,Córdoba,1370,52,Americas
+CHN,China,Changzhi,698,52,Asia
+CHN,China,Guikong,1740,52,Asia
+ZAR,Democratic Republic of the Congo,Matadi,243,52,Africa
+HTI,Haiti,PORT-AU-PRINCE,1699,52,Americas
+IND,India,Khammam,187,52,Asia
+IND,India,Mahbubnagar,147,52,Asia
+IND,India,Tenali,180,52,Asia
+IDN,Indonesia,Bengkulu,310,52,Asia
+IDN,Indonesia,Palangkaraya,176,52,Asia
+IRN,Iran (Islamic Republic of),Ilam,156,52,Asia
+ISR,Israel,Bat Yam,162,52,Asia
+ITA,Italy,Firenze,405,52,Europe
+MEX,Mexico,Guadalajara,3437,52,Americas
+MOZ,Mozambique,MAPUTO,2867,52,Africa
+PHL,Philippines,Dagupan,142,52,Asia
+STP,Sao Tome and Principe,SAO TOME,35,52,Africa
+THA,Thailand,Chon Buri,232,52,Asia
+TUR,Turkey,Diyarbakir,844,52,Asia
+TUR,Turkey,Konya,1276,52,Asia
+AFG,Afghanistan,Kandahar (Quandahar),412,51,Asia
+ARG,Argentina,Moron,734,51,Americas
+CHL,Chile,San Bernardo,221,51,Americas
+CHN,China,Altay,163,51,Asia
+CHN,China,Yuanlin,147,51,Asia
+COM,Comoros,MORONI,43,51,Africa
+GRC,Greece,Piraiévs,192,51,Europe
+IND,India,Bankura,144,51,Asia
+IND,India,Chiral,179,51,Asia
+IND,India,Hyderabad,5448,51,Asia
+IND,India,Latur,248,51,Asia
+IND,India,Ongole,161,51,Asia
+IND,India,Sangli,456,51,Asia
+IND,India,Tiruvannamalai,137,51,Asia
+IND,India,Valsad,140,51,Asia
+IRN,Iran (Islamic Republic of),Kashan,189,51,Asia
+ISR,Israel,Tel Aviv-Yafo,2218,51,Asia
+MEX,Mexico,Ciudad López Mateos,377,51,Americas
+MEX,Mexico,Querétaro,498,51,Americas
+MEX,Mexico,Tlalnepantla,841,51,Americas
+ESP,Spain,Sevilla,700,51,Europe
+SUR,Suriname,PARAMARIBO,233,51,Americas
+TUR,Turkey,Antalya,942,51,Asia
+TUR,Turkey,Sivas,509,51,Asia
+VNM,Viet Nam,Vungtau,161,51,Asia
+DZA,Algeria,Blida,235,50,Africa
+DZA,Algeria,Tlemcen,161,50,Africa
+BGR,Bulgaria,Roussé,185,50,Europe
+CHN,China,Chiayi,310,50,Asia
+CHN,China,Pingdong,254,50,Asia
+CHN,China,Taitung,130,50,Asia
+GRC,Greece,ATHINAI,3229,50,Europe
+IND,India,Madurai,1362,50,Asia
+IND,India,Nellore,397,50,Asia
+IND,India,Vellore,390,50,Asia
+IRN,Iran (Islamic Republic of),Birjand,131,50,Asia
+ISR,Israel,JERUSALEM,652,50,Asia
+POL,Poland,Chorzów,134,50,Europe
+TUR,Turkey,Çorum,337,50,Asia
+TUR,Turkey,Kayseri,793,50,Asia
+ARG,Argentina,Catamarca,152,49,Americas
+CAF,Central African Republic,BANGUI,747,49,Africa
+HTI,Haiti,Delmas,249,49,Americas
+IND,India,Habra,247,49,Asia
+IND,India,Jalgaon,304,49,Asia
+IND,India,Kochi,1430,49,Asia
+IND,India,Machilipatnam,200,49,Asia
+IND,India,Tiruchchirappalli,893,49,Asia
+IDN,Indonesia,Pakan Baru,661,49,Asia
+ISR,Israel,Petah Tiqwa,172,49,Asia
+ISR,Israel,Rishon Leziyyon,179,49,Asia
+KEN,Kenya,NAIROBI,2383,49,Africa
+MDV,Maldives,MALE,72,49,Asia
+MEX,Mexico,Chihuahua,636,49,Americas
+MEX,Mexico,Culiacán,497,49,Americas
+MEX,Mexico,San Luis Potosí,789,49,Americas
+PER,Peru,Juliaca,163,49,Americas
+PHL,Philippines,Mandaluyong,359,49,Asia
+POL,Poland,WARSZAWA,1716,49,Europe
+KOR,Republic of Korea,Daegu,2417,49,Asia
+KOR,Republic of Korea,Kuri,130,49,Asia
+TUR,Turkey,Adiyaman,333,49,Asia
+TUR,Turkey,Denizli,452,49,Asia
+TUR,Turkey,Kirikkale,279,49,Asia
+TUR,Turkey,Samsun,680,49,Asia
+BRA,Brazil,Santa Luzia (MG),150,48,Americas
+BRA,Brazil,Sao Caetano do Sul,149,48,Americas
+CHN,China,Karamay,220,48,Asia
+CHN,China,Keelung (Chi-lung),430,48,Asia
+CRI,Costa Rica,Cartago,136,48,Americas
+IND,India,Aligarh,603,48,Asia
+IND,India,Arcot,144,48,Asia
+IND,India,Dhule,349,48,Asia
+JPN,Japan,Kokubanji,107,48,Asia
+MDG,Madagascar,Toliara,112,48,Africa
+MEX,Mexico,Hermosillo,538,48,Americas
+PHL,Philippines,Cabanatuan,225,48,Asia
+PHL,Philippines,Navotas,272,48,Asia
+PHL,Philippines,Tarlac,302,48,Asia
+ESP,Spain,Huelva,148,48,Europe
+ESP,Spain,Leganés,177,48,Europe
+USA,United States of America,Phoenix,2618,48,Americas
+BRA,Brazil,Contagem,483,47,Americas
+BRA,Brazil,Cotia,135,47,Americas
+BRA,Brazil,Taboao da Serra,194,47,Americas
+SLV,El Salvador,San Miguel,154,47,Americas
+IDN,Indonesia,Malang,904,47,Asia
+JPN,Japan,Kawaguchi,461,47,Asia
+JPN,Japan,Koganei,110,47,Asia
+JPN,Japan,Tachikawa,159,47,Asia
+PHL,Philippines,Angeles,336,47,Asia
+PHL,Philippines,Cavite,126,47,Asia
+PHL,Philippines,Makati,656,47,Asia
+PHL,Philippines,Quezon City,2035,47,Asia
+POL,Poland,Bialystok,287,47,Europe
+POL,Poland,Bytom,239,47,Europe
+POL,Poland,Szczecin,436,47,Europe
+POL,Poland,Wloclawek,128,47,Europe
+RUS,Russian Federation,Irkutsk,592,47,Europe
+ESP,Spain,Baracaldo,108,47,Europe
+ESP,Spain,Getafe,143,47,Europe
+TUN,Tunisia,TUNIS,1860,47,Africa
+TUR,Turkey,Antakya,164,47,Asia
+TUR,Turkey,Balikesir,612,47,Asia
+TUR,Turkey,Erzurum,508,47,Asia
+TZA,United Republic of Tanzania,DODOMA,264,47,Africa
+USA,United States of America,Fontana (Ca.),110,47,Americas
+VNM,Viet Nam,Bac Lieu,139,47,Asia
+AFG,Afghanistan,Herat,324,46,Asia
+AFG,Afghanistan,KABUL,2457,46,Asia
+BRA,Brazil,Carapicuíba,349,46,Americas
+BRA,Brazil,Sao Paolo,9984,46,Americas
+CHN,China,Dayuan,516,46,Asia
+ZAR,Democratic Republic of the Congo,Kolwezi,728,46,Africa
+IND,India,Basirhat,127,46,Asia
+IND,India,Ichalakaranji,296,46,Asia
+IND,India,Kanchipuram,215,46,Asia
+IND,India,Madras,6800,46,Asia
+IND,India,Thalassery,130,46,Asia
+IND,India,Thanjavur,253,46,Asia
+IND,India,Tiruppur,384,46,Asia
+KEN,Kenya,Nyeri,164,46,Africa
+LBN,Lebanon,BEIRUT,2012,46,Asia
+MEX,Mexico,Morelia,513,46,Americas
+MEX,Mexico,Tlaxcala,222,46,Americas
+MEX,Mexico,Zapopan,800,46,Americas
+PHL,Philippines,Lucena City,195,46,Asia
+PHL,Philippines,Marikina,449,46,Asia
+PHL,Philippines,Pasig,576,46,Asia
+POL,Poland,Gliwice,224,46,Europe
+POL,Poland,Ruda Slaska,175,46,Europe
+POL,Poland,Sosnowiec,262,46,Europe
+POL,Poland,Zabrze,213,46,Europe
+KOR,Republic of Korea,Daejean,1268,46,Asia
+KOR,Republic of Korea,Shihung,128,46,Asia
+ESP,Spain,Alcorcón,144,46,Europe
+ESP,Spain,La Laguna,114,46,Europe
+ESP,Spain,Murcia,342,46,Europe
+ESP,Spain,Sabadell,195,46,Europe
+TGO,Togo,LOME,790,46,Africa
+TUN,Tunisia,Ariana,174,46,Africa
+TUR,Turkey,Eskisehir,620,46,Asia
+TUR,Turkey,Hatay,683,46,Asia
+USA,United States of America,Chandler (Ar.),126,46,Americas
+USA,United States of America,Ontario,143,46,Americas
+BRA,Brazil,Belford Roxo,425,45,Americas
+BRA,Brazil,Diadema,344,45,Americas
+SLV,El Salvador,Delgado,126,45,Americas
+SLV,El Salvador,Mejicanos,159,45,Americas
+GRC,Greece,Salonika,787,45,Europe
+IND,India,Bhiwandi,492,45,Asia
+IND,India,Chittoor,167,45,Asia
+IND,India,Erode,454,45,Asia
+IND,India,Mysore,819,45,Asia
+IND,India,Patan,151,45,Asia
+IND,India,Tirunelveli,460,45,Asia
+IND,India,Tumkur,226,45,Asia
+MEX,Mexico,Aguascalientes,545,45,Americas
+MEX,Mexico,Durango,417,45,Americas
+MEX,Mexico,León,908,45,Americas
+MEX,Mexico,Nuevo Laredo,263,45,Americas
+PER,Peru,Cuzco,363,45,Americas
+PHL,Philippines,Lapu-Lapu,171,45,Asia
+PHL,Philippines,Mandaue,259,45,Asia
+PHL,Philippines,Olongapo,253,45,Asia
+PHL,Philippines,Pasay,471,45,Asia
+PHL,Philippines,San Carlos (Pangasinan),150,45,Asia
+POL,Poland,Katowice,376,45,Europe
+POL,Poland,Lódz,873,45,Europe
+POL,Poland,Poznan,609,45,Europe
+POL,Poland,Rzeszów,165,45,Europe
+KOR,Republic of Korea,Inchon (Incheon),2361,45,Asia
+KOR,Republic of Korea,SEOUL,11548,45,Asia
+ESP,Spain,Alcalá de Henares,164,45,Europe
+ESP,Spain,Cartagena,173,45,Europe
+ESP,Spain,Málaga,540,45,Europe
+ESP,Spain,Santa Cruz de Tenerife,208,45,Europe
+THA,Thailand,Chiang Mai,207,45,Asia
+TUR,Turkey,Aydin,507,45,Asia
+UKR,Ukraine,KIEV,2622,45,Europe
+ARG,Argentina,General San Martin,466,44,Americas
+ARG,Argentina,Neuquén,191,44,Americas
+CHN,China,Chungli,338,44,Asia
+SLV,El Salvador,Santa Ana,168,44,Americas
+IND,India,Bhimavaram,152,44,Asia
+IND,India,Dibrugarh,158,44,Asia
+IND,India,Kumbakonam,189,44,Asia
+IND,India,Morvi,151,44,Asia
+IND,India,Neyveli,159,44,Asia
+IND,India,Vijayawada,1061,44,Asia
+ISR,Israel,Be'er Sheva,165,44,Asia
+JPN,Japan,Hino,171,44,Asia
+JPN,Japan,Ichikawa,453,44,Asia
+JPN,Japan,Machida,367,44,Asia
+JPN,Japan,Tama,151,44,Asia
+JPN,Japan,Urawa,456,44,Asia
+MEX,Mexico,Celaya,257,44,Americas
+MEX,Mexico,Coatzacoalcos,518,44,Americas
+MEX,Mexico,Guadalupe,641,44,Americas
+MEX,Mexico,Tlaquepaque,393,44,Americas
+PAN,Panama,PANAMA,491,44,Americas
+PHL,Philippines,Cebu,835,44,Asia
+PHL,Philippines,Taguig,386,44,Asia
+POL,Poland,Lublin,366,44,Europe
+POL,Poland,Tarnów,127,44,Europe
+KOR,Republic of Korea,Chinju,304,44,Asia
+KOR,Republic of Korea,Seongnam,644,44,Asia
+RUS,Russian Federation,Angarsk,277,44,Europe
+ESP,Spain,Castellón,141,44,Europe
+ESP,Spain,Fuenlabrada,149,44,Europe
+ESP,Spain,Móstoles,198,44,Europe
+TUR,Turkey,Afyon,118,44,Asia
+TUR,Turkey,Batman,284,44,Asia
+TUR,Turkey,Isparta,312,44,Asia
+TUR,Turkey,Urfa,822,44,Asia
+TUR,Turkey,Usak,196,44,Asia
+TUR,Turkey,Van,372,44,Asia
+TUR,Turkey,Zonguldak,514,44,Asia
+TZA,United Republic of Tanzania,Dar es Salaam,2411,44,Africa
+USA,United States of America,San Bernardino,192,44,Americas
+ZWE,Zimbabwe,Chitungwiza,359,44,Africa
+BHS,Bahamas,NASSAU,214,43,Americas
+BRA,Brazil,Barueri,188,43,Americas
+BRA,Brazil,Duque de Caxias,755,43,Americas
+BRA,Brazil,Nilópolis,165,43,Americas
+CHN,China,Hsinchu,398,43,Asia
+CHN,China,Zixing,456,43,Asia
+SLV,El Salvador,SAN SALVADOR,501,43,Americas
+SLV,El Salvador,Soyapango,315,43,Americas
+GRC,Greece,Péristéri,144,43,Europe
+IND,India,Eluru,267,43,Asia
+IND,India,Hindupur,131,43,Asia
+JPN,Japan,Maebashi,293,43,Asia
+JPN,Japan,Takasaki,243,43,Asia
+JPN,Japan,TOKYO,12483,43,Asia
+MEX,Mexico,Colimas,185,43,Americas
+MEX,Mexico,Monclova,287,43,Americas
+MEX,Mexico,Monterrey,3068,43,Americas
+MEX,Mexico,Tehuacan,186,43,Americas
+MEX,Mexico,Zamora de Hidalgo,174,43,Americas
+NLD,Netherlands,s-Gravenhage,714,43,Europe
+NIC,Nicaragua,Leon,142,43,Americas
+NIC,Nicaragua,MANAGUA,988,43,Americas
+PHL,Philippines,Muntinlupa,334,43,Asia
+POL,Poland,Czestochowa,271,43,Europe
+POL,Poland,Radom,241,43,Europe
+PRT,Portugal,Porto,1521,43,Europe
+KOR,Republic of Korea,Bucheon,795,43,Asia
+KOR,Republic of Korea,Busan,4075,43,Asia
+ROM,Romania,Ploiesti,255,43,Europe
+ESP,Spain,Barcelona,1645,43,Europe
+ESP,Spain,Elche,194,43,Europe
+ESP,Spain,Tarrasa,163,43,Europe
+TUR,Turkey,Gebze,264,43,Asia
+VIR,United States Virgin Islands,CHARLOTTE AMALIE,12,43,Americas
+ARG,Argentina,La Matanza,1272,42,Americas
+ARG,Argentina,Lanus,534,42,Americas
+ARG,Argentina,Resistencia,333,42,Americas
+ZAR,Democratic Republic of the Congo,Bukavu,294,42,Africa
+IND,India,Aizawl,195,42,Asia
+IND,India,Cuddalore,181,42,Asia
+IND,India,Gudivada,127,42,Asia
+IND,India,Kannur,582,42,Asia
+IND,India,Pondicherry,503,42,Asia
+IRN,Iran (Islamic Republic of),Najafabad,207,42,Asia
+ITA,Italy,Monza,122,42,Europe
+ITA,Italy,Padova,217,42,Europe
+JPN,Japan,Akishima,110,42,Asia
+JPN,Japan,Asaka,110,42,Asia
+JPN,Japan,Higashiosaka,524,42,Asia
+JPN,Japan,Matsudo,473,42,Asia
+JPN,Japan,Mitaka,169,42,Asia
+JPN,Japan,Musashino,138,42,Asia
+JPN,Japan,Tokorozawa,325,42,Asia
+LAO,Lao People's Democratic Republic,VIENTIANE,815,42,Asia
+LIE,Liechtenstein,VADUZ,7,42,Europe
+MEX,Mexico,Ciudad Juárez,956,42,Americas
+MEX,Mexico,Ciudad Madero,192,42,Americas
+POL,Poland,Kielce,224,42,Europe
+POL,Poland,Opole,136,42,Europe
+KOR,Republic of Korea,Ulsan,812,42,Asia
+TUN,Tunisia,Sousse,143,42,Africa
+TUR,Turkey,Karabuk,131,42,Asia
+ZWE,Zimbabwe,Bulawayo,812,42,Africa
+ARG,Argentina,San Fernando,162,41,Americas
+ARG,Argentina,San Isidro,342,41,Americas
+BRB,Barbados,BRIDGETOWN,10,41,Americas
+BTN,Bhutan,THIMPHU,44,41,Asia
+BRA,Brazil,Embu,208,41,Americas
+BRA,Brazil,Linhares,98,41,Americas
+BRA,Brazil,Nova Iguaçu,875,41,Americas
+BRA,Brazil,Sao Bernardo do Campo,682,41,Americas
+CHL,Chile,Temuco,256,41,Americas
+CHN,China,Bodong,147,41,Asia
+HND,Honduras,San Pedro Sula,779,41,Americas
+IND,India,Junagadh,210,41,Asia
+IND,India,Malegaon,430,41,Asia
+ISR,Israel,Netanya,164,41,Asia
+ITA,Italy,Modena,177,41,Europe
+JPN,Japan,Kawasaki,1226,41,Asia
+JPN,Japan,Omiya,436,41,Asia
+JPN,Japan,Soka,220,41,Asia
+JPN,Japan,Suita,345,41,Asia
+JPN,Japan,Utsunomiya,444,41,Asia
+KEN,Kenya,Machakos,209,41,Africa
+LBN,Lebanon,Tripoli,234,41,Asia
+LBR,Liberia,MONROVIA,479,41,Africa
+MYS,Malaysia,Kota Bahru,313,41,Asia
+MEX,Mexico,Gómez Palacio,196,41,Americas
+MEX,Mexico,Tampico,518,41,Americas
+MEX,Mexico,Veracruz Llave,566,41,Americas
+NLD,Netherlands,Rotterdam,1106,41,Europe
+PER,Peru,Ica,184,41,Americas
+PHL,Philippines,Cotabato,137,41,Asia
+PHL,Philippines,Roxas,136,41,Asia
+POL,Poland,Bielsko - Biala,189,41,Europe
+POL,Poland,Rybnik,150,41,Europe
+KOR,Republic of Korea,Cheongju,569,41,Asia
+KOR,Republic of Korea,Eujeongbu,253,41,Asia
+KOR,Republic of Korea,Suwon (Puwan),768,41,Asia
+ROM,Romania,Craiova,308,41,Europe
+SGP,Singapore,SINGAPORE,3163,41,Asia
+ESP,Spain,Las Palmas (Canarias),371,41,Europe
+ESP,Spain,Palma de Mallorca,308,41,Europe
+TUN,Tunisia,Kairouan,117,41,Africa
+TUR,Turkey,Kütahya,314,41,Asia
+ARG,Argentina,Avellaneda,396,40,Americas
+ARG,Argentina,Vicente Lopez,331,40,Americas
+BEN,Benin,PORTO-NOVO,249,40,Africa
+BRA,Brazil,Cuiabá,454,40,Americas
+BRA,Brazil,Imperatriz,229,40,Americas
+BRA,Brazil,Rio de Janeiro,5902,40,Americas
+CHN,China,Taoyuan Shih,301,40,Asia
+IND,India,Chitradurga,130,40,Asia
+IND,India,Mandya,151,40,Asia
+IND,India,Rajahmundry,503,40,Asia
+IND,India,Thiruvananthapuram,1036,40,Asia
+ISR,Israel,Ashdod,131,40,Asia
+JPN,Japan,Chofu,202,40,Asia
+JPN,Japan,Hachioji,505,40,Asia
+JPN,Japan,Isesaki,123,40,Asia
+JPN,Japan,Moriguchi,158,40,Asia
+KEN,Kenya,Eldoret,201,40,Africa
+MEX,Mexico,Chilpacingo,137,40,Americas
+MEX,Mexico,Cuatlas,194,40,Americas
+MEX,Mexico,Minatitlan,170,40,Americas
+MEX,Mexico,Saltillo,548,40,Americas
+MEX,Mexico,Tijuana,895,40,Americas
+MEX,Mexico,Uruapan,225,40,Americas
+POL,Poland,Torun,212,40,Europe
+POL,Poland,Zielona Góra,121,40,Europe
+KOR,Republic of Korea,Kunpo,119,40,Asia
+RUS,Russian Federation,Blagoveshchensk (Amurskaya oblast),220,40,Europe
+ESP,Spain,Lérida,116,40,Europe
+ESP,Spain,Valencia,772,40,Europe
+SWZ,Swaziland,MBABANE,73,40,Africa
+UKR,Ukraine,Odessa,1077,40,Europe
+USA,United States of America,Huntington Beach,200,40,Americas
+ARG,Argentina,Lomas de Zamora,655,39,Americas
+ARG,Argentina,Rosario,1254,39,Americas
+AUT,Austria,WIEN,1904,39,Europe
+BIH,Bosnia and Herzegovina,Tuzla,133,39,Europe
+BRA,Brazil,Betim,251,39,Americas
+BRA,Brazil,Cascavel,218,39,Americas
+CHN,China,Wuyishan,261,39,Asia
+CHN,China,Yumen,200,39,Asia
+HRV,Croatia,ZAGREB,908,39,Europe
+ZAR,Democratic Republic of the Congo,Mbuji-Mayi,851,39,Africa
+DOM,Dominican Republic,Santiago de los Caballeros,817,39,Americas
+DOM,Dominican Republic,SANTO DOMINGO,2527,39,Americas
+SLV,El Salvador,Nueva San Salvador,141,39,Americas
+ETH,Ethiopia,Debrezit,138,39,Africa
+HTI,Haiti,Carrefour,301,39,Americas
+IND,India,Bhuj,152,39,Asia
+IND,India,Bijapur,242,39,Asia
+IND,India,Davangere,360,39,Asia
+IND,India,Karaikkudi,139,39,Asia
+IND,India,Karur,143,39,Asia
+IND,India,Kolhapur,525,39,Asia
+IND,India,Korba,288,39,Asia
+IND,India,Vizianagarm,222,39,Asia
+JPN,Japan,Higashikurume,115,39,Asia
+JPN,Japan,Kashiwa,326,39,Asia
+JPN,Japan,Kodaira,174,39,Asia
+JPN,Japan,Osaka,2626,39,Asia
+JPN,Japan,Tsuchuiura,134,39,Asia
+KAZ,Kazakhstan,Atirau,152,39,Asia
+NPL,Nepal,Biratnagar,197,39,Asia
+NLD,Netherlands,s-Hertogenbosch,204,39,Europe
+PHL,Philippines,Davao,1166,39,Asia
+POL,Poland,Legnica,112,39,Europe
+POL,Poland,Wroclaw,670,39,Europe
+KOR,Republic of Korea,Anyang,573,39,Asia
+KOR,Republic of Korea,Chonchu (Jeonju),615,39,Asia
+KOR,Republic of Korea,Kwang myong,391,39,Asia
+KOR,Republic of Korea,Kwangchu (Gwangju),1325,39,Asia
+RUS,Russian Federation,Astrakhan,489,39,Europe
+RUS,Russian Federation,Makhachkala,381,39,Europe
+SOM,Somalia,Hargeysa,167,39,Africa
+SOM,Somalia,MOGADISHU,1162,39,Africa
+ESP,Spain,Granada,265,39,Europe
+CHE,Switzerland,BERNE,342,39,Europe
+TUR,Turkey,Kilis,123,39,Asia
+TUR,Turkey,Manisa,789,39,Asia
+UKR,Ukraine,Chernigov,310,39,Europe
+UKR,Ukraine,Lvov,803,39,Europe
+TZA,United Republic of Tanzania,Zanzibar,359,39,Africa
+ARG,Argentina,Santa Fé,452,38,Americas
+BRA,Brazil,Ribeirao Preto,483,38,Americas
+BRA,Brazil,Sete Lagoas,174,38,Americas
+BRA,Brazil,Uberaba,243,38,Americas
+BRN,Brunei Darussalam,BANDAR SERI BEGAWAN,96,38,Asia
+CHL,Chile,Valdivia,128,38,Americas
+CHN,China,Haozhou,1514,38,Asia
+CHN,China,Zhoushan,849,38,Asia
+HKG,"China, Hong Kong SAR",Hongkong,6743,38,Asia
+CRI,Costa Rica,SAN JOSE,1381,38,Americas
+IND,India,Dindigul,229,38,Asia
+IND,India,Gandhidham,131,38,Asia
+ITA,Italy,Ferrara,138,38,Europe
+ITA,Italy,Piacenza,103,38,Europe
+ITA,Italy,Reggio nell'Emilia,132,38,Europe
+JPN,Japan,Ageo,210,38,Asia
+JPN,Japan,Ashikaga,170,38,Asia
+JPN,Japan,Higashimurayama,139,38,Asia
+JPN,Japan,Kumagaya,160,38,Asia
+JPN,Japan,Mito,252,38,Asia
+JPN,Japan,Nagareyama,149,38,Asia
+JPN,Japan,Sagamihara,578,38,Asia
+JPN,Japan,Urayasu,126,38,Asia
+MEX,Mexico,Ensenada,203,38,Americas
+MEX,Mexico,Guaynas,148,38,Americas
+MEX,Mexico,Reynosa,338,38,Americas
+MEX,Mexico,Salamanca,148,38,Americas
+MEX,Mexico,Tepic,248,38,Americas
+NLD,Netherlands,Eindhoven,405,38,Europe
+NLD,Netherlands,Enschede,261,38,Europe
+NLD,Netherlands,Groningen,216,38,Europe
+PER,Peru,Trujillo,625,38,Americas
+POL,Poland,Gdansk,483,38,Europe
+POL,Poland,Grudziadz,108,38,Europe
+POL,Poland,Plock,131,38,Europe
+POL,Poland,Tychy,143,38,Europe
+KOR,Republic of Korea,Ansan,300,38,Asia
+MDA,Republic of Moldova,Bendery,132,38,Europe
+MDA,Republic of Moldova,KISHINEV,662,38,Europe
+RUS,Russian Federation,Komsomolsk-na-Amure,316,38,Europe
+LCA,Saint Lucia,CASTRIES,59,38,Americas
+ESP,Spain,San Sebastián,177,38,Europe
+UKR,Ukraine,Cherkassy,309,38,Europe
+UKR,Ukraine,Zaporozhye,891,38,Europe
+USA,United States of America,Fresno,883,38,Americas
+USA,United States of America,Garden Grove,157,38,Americas
+USA,United States of America,Los Angeles,16195,38,Americas
+VNM,Viet Nam,Rach Gia,182,38,Asia
+ARG,Argentina,San Nicolas,131,37,Americas
+BIH,Bosnia and Herzegovina,Banja Luka,197,37,Europe
+BRA,Brazil,Niterói,479,37,Americas
+BGR,Bulgaria,Choumen,110,37,Europe
+HRV,Croatia,Osijek,136,37,Europe
+SLV,El Salvador,Apopa,122,37,Americas
+GRC,Greece,Larissa,119,37,Europe
+IND,India,Allappuzha,332,37,Asia
+IND,India,Bhadravati,187,37,Asia
+IND,India,Haldia,126,37,Asia
+IND,India,Mangalore,535,37,Asia
+JPN,Japan,Funabashi,551,37,Asia
+JPN,Japan,Iwatsuki,112,37,Asia
+JPN,Japan,Kumamoto,656,37,Asia
+KAZ,Kazakhstan,ALMATY,1171,37,Asia
+MEX,Mexico,Cuernavaca,646,37,Americas
+MEX,Mexico,Villahermosa,313,37,Americas
+NLD,Netherlands,AMSTERDAM,1131,37,Europe
+POL,Poland,Elblag,133,37,Europe
+POL,Poland,Walbrzych,147,37,Europe
+KOR,Republic of Korea,Changweon,385,37,Asia
+RUS,Russian Federation,Khabarovsk,627,37,Europe
+SVN,Slovenia,LJUBLJANA,282,37,Europe
+ESP,Spain,Almería,162,37,Europe
+ESP,Spain,MADRID,3068,37,Europe
+ESP,Spain,Mataro,105,37,Europe
+TUN,Tunisia,Bizerta,113,37,Africa
+UKR,Ukraine,Kharkov,1601,37,Europe
+USA,United States of America,Bakersfield,645,37,Americas
+USA,United States of America,Scottsdale,161,37,Americas
+ARG,Argentina,Corrientes,295,36,Americas
+ARG,Argentina,La Plata,732,36,Americas
+BRA,Brazil,Belo Horizonte,2211,36,Americas
+BRA,Brazil,Campinas,928,36,Americas
+BRA,Brazil,Sao Gonçalo,886,36,Americas
+BRA,Brazil,Uberlandia,458,36,Americas
+BDI,Burundi,BUJUMBURA,392,36,Africa
+CHL,Chile,Puerto Montt,131,36,Americas
+CHN,China,Huangshan,476,36,Asia
+HRV,Croatia,Split,210,36,Europe
+GRC,Greece,Patrai,179,36,Europe
+IND,India,Coimbatore,1380,36,Asia
+IND,India,Shimoga,242,36,Asia
+IND,India,Tuticorin,351,36,Asia
+ITA,Italy,Bergamo,116,36,Europe
+ITA,Italy,Milano,1381,36,Europe
+ITA,Italy,Treviso,102,36,Europe
+JPN,Japan,Chigasaki,216,36,Asia
+JPN,Japan,Fujisawa,373,36,Asia
+JPN,Japan,Hamamatsu,573,36,Asia
+JPN,Japan,Kiryu,124,36,Asia
+JPN,Japan,Nagoya,2196,36,Asia
+JPN,Japan,Ome,139,36,Asia
+JPN,Japan,Oyama,151,36,Asia
+JPN,Japan,Yamato,208,36,Asia
+LTU,Lithuania,Kaunas,418,36,Europe
+MYS,Malaysia,Kuala Terengganu,305,36,Asia
+MAR,Morocco,Khouribga,230,36,Africa
+MOZ,Mozambique,Beira,697,36,Africa
+NLD,Netherlands,Haarlem,219,36,Europe
+NLD,Netherlands,Leiden,200,36,Europe
+NLD,Netherlands,Nijmegen,256,36,Europe
+NLD,Netherlands,Tilburg,244,36,Europe
+PHL,Philippines,Basilan,345,36,Asia
+PHL,Philippines,Batangas,231,36,Asia
+PHL,Philippines,Iloilo,367,36,Asia
+POL,Poland,Olsztyn,173,36,Europe
+KOR,Republic of Korea,Chungju,153,36,Asia
+KOR,Republic of Korea,Iri,242,36,Asia
+KOR,Republic of Korea,Mogpo,289,36,Asia
+KOR,Republic of Korea,Suncheon,199,36,Asia
+MDA,Republic of Moldova,Tiraspol,185,36,Europe
+RUS,Russian Federation,Abakan,162,36,Europe
+RUS,Russian Federation,Usolie Sibirskoye,108,36,Europe
+ESP,Spain,Vitoria,215,36,Europe
+UKR,Ukraine,Dnepropetrovsk,1175,36,Europe
+UKR,Ukraine,Kirovograd,279,36,Europe
+UKR,Ukraine,Zhitomir,300,36,Europe
+TZA,United Republic of Tanzania,Tabora,1324,36,Africa
+USA,United States of America,Anaheim,299,36,Americas
+USA,United States of America,Fullerton,124,36,Americas
+USA,United States of America,Henderson,108,36,Americas
+USA,United States of America,Inglewood,117,36,Americas
+USA,United States of America,Oxnard,154,36,Americas
+ARG,Argentina,Paraná,242,35,Americas
+BRA,Brazil,Bauru,306,35,Americas
+BRA,Brazil,Marília,182,35,Americas
+BRA,Brazil,Sao José do Rio Prêto,324,35,Americas
+BRA,Brazil,Teófilo Otoni,110,35,Americas
+ECU,Ecuador,Riobamba,126,35,Americas
+IND,India,Palakkad,226,35,Asia
+IND,India,Rajapalaiyam,143,35,Asia
+IND,India,Sivakasi,128,35,Asia
+IND,India,Thrissur,345,35,Asia
+ITA,Italy,Parma,170,35,Europe
+ITA,Italy,ROMA,2713,35,Europe
+JPN,Japan,Kasukabe,203,35,Asia
+JPN,Japan,Nishinomiya,433,35,Asia
+JPN,Japan,Toyonaka,408,35,Asia
+JPN,Japan,Zama,120,35,Asia
+KEN,Kenya,Mombasa,831,35,Africa
+MEX,Mexico,Ciudad Victoria,249,35,Americas
+MEX,Mexico,Mazatlán,315,35,Americas
+MEX,Mexico,Tuxtla Gutiérrez,354,35,Americas
+MEX,Mexico,Zacatecas,186,35,Americas
+MAR,Morocco,Meknès,486,35,Africa
+NLD,Netherlands,Amersfoort,114,35,Europe
+NLD,Netherlands,Apeldoorn,154,35,Europe
+NLD,Netherlands,Arnhem,322,35,Europe
+NLD,Netherlands,Breda,171,35,Europe
+NLD,Netherlands,Hilversum,105,35,Europe
+NLD,Netherlands,Utrecht,562,35,Europe
+NLD,Netherlands,Zoetermeer,107,35,Europe
+PER,Peru,Huancayo,291,35,Americas
+PER,Peru,Piura,368,35,Americas
+PHL,Philippines,Butuan,297,35,Asia
+POL,Poland,Gdynia,262,35,Europe
+POL,Poland,Jastrzebie - Zdrój,108,35,Europe
+PRT,Portugal,Funchal,149,35,Europe
+KOR,Republic of Korea,Cheonan,252,35,Asia
+KOR,Republic of Korea,Gunsan,260,35,Asia
+KOR,Republic of Korea,Kimhae,126,35,Asia
+RWA,Rwanda,KIGALI,369,35,Africa
+ESP,Spain,Albacete,137,35,Europe
+ESP,Spain,Burgos,167,35,Europe
+ESP,Spain,Pamplona,187,35,Europe
+ESP,Spain,Tarragona,114,35,Europe
+ESP,Spain,Valladolid,342,35,Europe
+UKR,Ukraine,Chernovtsy,261,35,Europe
+UKR,Ukraine,Kertch,181,35,Europe
+UKR,Ukraine,Krementchug,246,35,Europe
+UKR,Ukraine,Nikolaev (Nikolaevskaya oblast),514,35,Europe
+UKR,Ukraine,Ternopol,227,35,Europe
+UKR,Ukraine,Vinnitsa,384,35,Europe
+TZA,United Republic of Tanzania,Tanga,464,35,Africa
+USA,United States of America,Irvine,133,35,Americas
+USA,United States of America,Long Beach,459,35,Americas
+USA,United States of America,Tempe,153,35,Americas
+USA,United States of America,Torrance,146,35,Americas
+VNM,Viet Nam,Dalat,139,35,Asia
+ARG,Argentina,Quilmes,583,34,Americas
+BRA,Brazil,Araçatuba,168,34,Americas
+BRA,Brazil,Itaguaí,116,34,Americas
+BRA,Brazil,Montes Claros,269,34,Americas
+BRA,Brazil,Patos de Minas,106,34,Americas
+BRA,Brazil,Santo André,664,34,Americas
+ECU,Ecuador,QUITO,1598,34,Americas
+FJI,Fiji,SUVA,196,34,Oceania
+GRC,Greece,Volos,122,34,Europe
+GUY,Guyana,GEORGETOWN,275,34,Americas
+HUN,Hungary,Szeged,174,34,Europe
+IND,India,Kalyan,1272,34,Asia
+IND,India,Nagercoil,238,34,Asia
+IND,India,Navsari,239,34,Asia
+IND,India,Shimla,138,34,Asia
+ITA,Italy,Genova,681,34,Europe
+ITA,Italy,Novara,103,34,Europe
+JPN,Japan,Amagasaki,503,34,Asia
+JPN,Japan,Atsugi,211,34,Asia
+JPN,Japan,Chiba,871,34,Asia
+JPN,Japan,Ichinomiya,272,34,Asia
+JPN,Japan,Katsuta,117,34,Asia
+JPN,Japan,Kawagoe,327,34,Asia
+JPN,Japan,Mishima,110,34,Asia
+JPN,Japan,Yachiyo,158,34,Asia
+JPN,Japan,Yao,281,34,Asia
+KAZ,Kazakhstan,Shimkent,437,34,Asia
+NLD,Netherlands,Geleen/Sittard,191,34,Europe
+NLD,Netherlands,Haarlemmermeer,107,34,Europe
+NLD,Netherlands,Heerlen/Kerkrade,278,34,Europe
+NLD,Netherlands,Maastricht,169,34,Europe
+NLD,Netherlands,Zaanstad,137,34,Europe
+NLD,Netherlands,Zaanstreek,151,34,Europe
+PER,Peru,Cajamarca,134,34,Americas
+PER,Peru,Chiclayo,538,34,Americas
+PHL,Philippines,Bacolod,416,34,Asia
+PHL,Philippines,San Pablo,198,34,Asia
+POL,Poland,Koszalin,116,34,Europe
+ESP,Spain,Gijón,267,34,Europe
+ESP,Spain,La Coruña,256,34,Europe
+MKD,TFYR Macedonia,SKOPJE,491,34,Europe
+THA,Thailand,Nakhon Si Thammarat,139,34,Asia
+UKR,Ukraine,Khmelnitsky,251,34,Europe
+UKR,Ukraine,Krivoi Rog,731,34,Europe
+UKR,Ukraine,Lutsk,215,34,Europe
+UKR,Ukraine,Poltava,323,34,Europe
+USA,United States of America,El Monte,111,34,Americas
+USA,United States of America,Glendale (Az.),178,34,Americas
+USA,United States of America,Glendale (Ca.),189,34,Americas
+AND,Andorra,ANDORRA LA VELLA,26,33,Europe
+BRA,Brazil,Araguaina,105,33,Americas
+BRA,Brazil,Araraquara,170,33,Americas
+BRA,Brazil,Luziania,248,33,Americas
+CYM,Cayman Islands,GEORGE TOWN,21,33,Americas
+CHL,Chile,Osorno,132,33,Americas
+CHN,China,Shulin Chen,144,33,Asia
+CHN,China,Tucheng,177,33,Asia
+COL,Colombia,SANTA FE DE BOGOTA,5442,33,Americas
+ECU,Ecuador,Ambato,172,33,Americas
+ETH,Ethiopia,Nazerit,191,33,Africa
+IND,India,Anantapur,219,33,Asia
+IND,India,Baleshwar,128,33,Asia
+IND,India,Belgaum,505,33,Asia
+IND,India,Hubli-Dharwad,813,33,Asia
+ITA,Italy,Napoli,1062,33,Europe
+JPN,Japan,Fukuoka,1301,33,Asia
+JPN,Japan,Itami,193,33,Asia
+JPN,Japan,Kasugai,281,33,Asia
+JPN,Japan,Komaki,138,33,Asia
+JPN,Japan,Sakai,820,33,Asia
+KAZ,Kazakhstan,Dzhambul (Zhambul),310,33,Asia
+KEN,Kenya,Kisumu,347,33,Africa
+MEX,Mexico,Matamoros,319,33,Americas
+MEX,Mexico,Mérida,719,33,Americas
+NLD,Netherlands,Velsen/Beverwijk,138,33,Europe
+PHL,Philippines,Iligan,254,33,Asia
+KOR,Republic of Korea,Andong,139,33,Asia
+KOR,Republic of Korea,Chuncheon,207,33,Asia
+KOR,Republic of Korea,Masan,588,33,Asia
+RUS,Russian Federation,St. Petersburg,4910,33,Europe
+RUS,Russian Federation,Ussuriisk,164,33,Europe
+VCT,Saint Vincent and the Grenadines,KINGSTOWN,21,33,Americas
+SVN,Slovenia,Marebor,131,33,Europe
+ESP,Spain,Logroño,126,33,Europe
+ESP,Spain,Salamanca,168,33,Europe
+UKR,Ukraine,Belaya Tserkov,211,33,Europe
+UKR,Ukraine,Donetsk (Donestskaya oblast),1111,33,Europe
+UKR,Ukraine,Kamenetz-Podolsky,107,33,Europe
+UKR,Ukraine,Melitopol,177,33,Europe
+UKR,Ukraine,Sumy,304,33,Europe
+USA,United States of America,Cleveland,3068,33,Americas
+USA,United States of America,Las Vegas,1139,33,Americas
+USA,United States of America,Omaha,701,33,Americas
+ALB,Albania,TIRANA,263,32,Europe
+ARG,Argentina,Bahia Blanca,292,32,Americas
+ARG,Argentina,Rio Cuarto,159,32,Americas
+BEN,Benin,Cotonou,746,32,Africa
+BRA,Brazil,Campos dos Goytacazes,355,32,Americas
+BRA,Brazil,Franca,278,32,Americas
+BRA,Brazil,Guarulhos,1013,32,Americas
+BRA,Brazil,Paranagua,115,32,Americas
+BRA,Brazil,Taubaté,224,32,Americas
+CZE,Czech Republic,Ostrava,325,32,Europe
+ZAR,Democratic Republic of the Congo,Kananga,523,32,Africa
+ECU,Ecuador,Cuenca,274,32,Americas
+ETH,Ethiopia,Mekele,156,32,Africa
+GHA,Ghana,Kumasi,700,32,Africa
+IND,India,Cherthala,167,32,Asia
+IND,India,Hassan,136,32,Asia
+JPN,Japan,Abiko,127,32,Asia
+JPN,Japan,Ebina,115,32,Asia
+JPN,Japan,Kadoma,144,32,Asia
+JPN,Japan,Kawanishi,146,32,Asia
+JPN,Japan,Kurume,238,32,Asia
+JPN,Japan,Matsuyama,467,32,Asia
+JPN,Japan,Narashino,157,32,Asia
+JPN,Japan,Oita,433,32,Asia
+JPN,Japan,Seto,132,32,Asia
+JPN,Japan,Shizuoka,483,32,Asia
+JPN,Japan,Yokohama,3366,32,Asia
+MDG,Madagascar,Fianarantsoa,151,32,Africa
+MEX,Mexico,Campeche,180,32,Americas
+NLD,Netherlands,Dordrecht,219,32,Europe
+ANT,Netherlands Antilles,WILLEMSTAD,3,32,Europe
+PER,Peru,Ayacucho,131,32,Americas
+PHL,Philippines,Silay,170,32,Asia
+POL,Poland,Dabrowa Górnicza,138,32,Europe
+POL,Poland,Gorzów Wielkopolski,130,32,Europe
+PRT,Portugal,Amadora,235,32,Europe
+KOR,Republic of Korea,Hanam,121,32,Asia
+KOR,Republic of Korea,Yosu,206,32,Asia
+ESP,Spain,Cádiz,157,32,Europe
+ESP,Spain,Jérez de la Frontera,189,32,Europe
+TUR,Turkey,Sultanbeyli,194,32,Asia
+UKR,Ukraine,Lugansk,499,32,Europe
+UKR,Ukraine,Uzhgorod,125,32,Europe
+TZA,United Republic of Tanzania,Mbeya,524,32,Africa
+USA,United States of America,Pasadena (Ca.),142,32,Americas
+BEL,Belgium,BRUXELLES (BRUSSEL),983,31,Europe
+BRA,Brazil,Cachoeiro de Itapemirim,135,31,Americas
+BRA,Brazil,Ferraz de Vasconcelos,128,31,Americas
+BRA,Brazil,Itajaí,137,31,Americas
+BRA,Brazil,Sao José dos Pinhais,161,31,Americas
+BRA,Brazil,Volta Redonda,247,31,Americas
+FRA,France,Marseille,1301,31,Europe
+GHA,Ghana,ACCRA,1938,31,Africa
+JPN,Japan,Fuji,234,31,Asia
+JPN,Japan,Gifu,417,31,Asia
+JPN,Japan,Habikino,120,31,Asia
+JPN,Japan,Hiroshima,1128,31,Asia
+JPN,Japan,Kariya,128,31,Asia
+JPN,Japan,Koriyama,331,31,Asia
+JPN,Japan,Niigata,502,31,Asia
+JPN,Japan,Numazu,218,31,Asia
+JPN,Japan,Okayama,620,31,Asia
+JPN,Japan,Otsu,278,31,Asia
+JPN,Japan,Takarazuka,210,31,Asia
+JPN,Japan,Tokushima,271,31,Asia
+MEX,Mexico,Netzahualcóyotl,1503,31,Americas
+MEX,Mexico,Pachuca,216,31,Americas
+MEX,Mexico,Poza Rica de Hidalgo,206,31,Americas
+MAR,Morocco,RABAT,1479,31,Africa
+MMR,Myanmar,Taunggyi,154,31,Asia
+PNG,Papua New Guinea,PORT MORESBY,293,31,Oceania
+PHL,Philippines,Baguio,206,31,Asia
+KOR,Republic of Korea,Gyeongju,169,31,Asia
+KOR,Republic of Korea,Pohang,378,31,Asia
+RUS,Russian Federation,Ekaterinoburg,1345,31,Europe
+RUS,Russian Federation,Vladivostok,670,31,Europe
+SLB,Solomon Islands,HONIARA,70,31,Oceania
+ESP,Spain,Algeciras,104,31,Europe
+ESP,Spain,Orense,106,31,Europe
+ESP,Spain,Oviedo,202,31,Europe
+UKR,Ukraine,Dneprodzerzhinsk,285,31,Europe
+UKR,Ukraine,Nikopol,160,31,Europe
+UKR,Ukraine,Rovno,243,31,Europe
+UKR,Ukraine,Simferopol,355,31,Europe
+USA,United States of America,Kansas City (Ka.),151,31,Americas
+USA,United States of America,Philadelphia,6307,31,Americas
+USA,United States of America,West Covina,109,31,Americas
+BIH,Bosnia and Herzegovina,Doboj,103,30,Europe
+BIH,Bosnia and Herzegovina,Prijedor,113,30,Europe
+BRA,Brazil,Americana,178,30,Americas
+BRA,Brazil,Divinópolis,175,30,Americas
+BRA,Brazil,Itaquaquecetuba,243,30,Americas
+BRA,Brazil,Jacareí,168,30,Americas
+BRA,Brazil,Juazeiro do Norte,192,30,Americas
+BRA,Brazil,Limeira,209,30,Americas
+BRA,Brazil,Piracicaba,309,30,Americas
+CAN,Canada,Hamilton,675,30,Americas
+ZAR,Democratic Republic of the Congo,Kikwit,261,30,Africa
+ECU,Ecuador,Manta,169,30,Americas
+GHA,Ghana,Tema,354,30,Africa
+IND,India,Kollam,455,30,Asia
+IND,India,Kozhikode,1005,30,Asia
+ITA,Italy,Bologna,407,30,Europe
+ITA,Italy,Brescia,202,30,Europe
+ITA,Italy,Lecco,101,30,Europe
+ITA,Italy,Pisa,99,30,Europe
+ITA,Italy,Vicenza,108,30,Europe
+JPN,Japan,Himeji,475,30,Asia
+JPN,Japan,Hiratsuka,259,30,Asia
+JPN,Japan,Izumi (Osaka),155,30,Asia
+JPN,Japan,Kagoshima,554,30,Asia
+JPN,Japan,Kofu,203,30,Asia
+JPN,Japan,Kyoto,1477,30,Asia
+JPN,Japan,Miyazaki,302,30,Asia
+JPN,Japan,Nara,365,30,Asia
+JPN,Japan,Neyagawa,263,30,Asia
+JPN,Japan,Saga,174,30,Asia
+JPN,Japan,Uji,188,30,Asia
+KGZ,Kyrgyzstan,BISHKEK,575,30,Asia
+LTU,Lithuania,Shauliai,147,30,Europe
+MEX,Mexico,Nogales,129,30,Americas
+MEX,Mexico,Tapachula,166,30,Americas
+MAR,Morocco,Béni-Mellal,169,30,Africa
+MAR,Morocco,Casablanca,3569,30,Africa
+MAR,Morocco,Fez,684,30,Africa
+MAR,Morocco,Kénitra,284,30,Africa
+MAR,Morocco,Sale,632,30,Africa
+PHL,Philippines,Cagayan de Oro,502,30,Asia
+PHL,Philippines,General Santos,339,30,Asia
+PHL,Philippines,Lipa,194,30,Asia
+PHL,Philippines,Naga,124,30,Asia
+PRT,Portugal,LISBOA,3318,30,Europe
+RUS,Russian Federation,Krasnoyarsk,883,30,Europe
+RUS,Russian Federation,Ulan-Ude,705,30,Europe
+RUS,Russian Federation,Ust-Ulimsk,114,30,Europe
+RUS,Russian Federation,Vladikavkaz (Osetinskaya ASSR),329,30,Europe
+RUS,Russian Federation,Yakutsk,230,30,Europe
+ZAF,South Africa,Alexandra,146,30,Africa
+ZAF,South Africa,Johannesburg,2344,30,Africa
+ZAF,South Africa,Sandton,119,30,Africa
+ZAF,South Africa,Soweto,701,30,Africa
+ESP,Spain,Jaén,108,30,Europe
+ESP,Spain,Santander,197,30,Europe
+ESP,Spain,Vigo,285,30,Europe
+UKR,Ukraine,Alexandriya,105,30,Europe
+UKR,Ukraine,Kherson,367,30,Europe
+UKR,Ukraine,Konotop,99,30,Europe
+UKR,Ukraine,Kramatorsk,202,30,Europe
+UKR,Ukraine,Mariupol,519,30,Europe
+USA,United States of America,Knoxville,668,30,Americas
+USA,United States of America,Mesa,332,30,Americas
+USA,United States of America,Modesto,430,30,Americas
+USA,United States of America,Newark,274,30,Americas
+USA,United States of America,Norwalk,107,30,Americas
+USA,United States of America,Orange,124,30,Americas
+AUT,Austria,Graz,286,29,Europe
+BEL,Belgium,Antwerpen (Anvers),687,29,Europe
+BRA,Brazil,Moji-Guaçu,112,29,Americas
+BRA,Brazil,Pocos de Caldas,124,29,Americas
+BRA,Brazil,Ribeirao das Neves,161,29,Americas
+BRA,Brazil,Sao José dos Campos,492,29,Americas
+BRA,Brazil,Sorocaba,455,29,Americas
+BRA,Brazil,Vila Velha,315,29,Americas
+BRA,Brazil,Vitoria,283,29,Americas
+CMR,Cameroon,Nkongsamba,218,29,Africa
+IND,India,Kottayam,209,29,Asia
+IND,India,Udupi,148,29,Asia
+ITA,Italy,Forli,110,29,Europe
+ITA,Italy,Latina,106,29,Europe
+ITA,Italy,Livorno,169,29,Europe
+ITA,Italy,Rimini,129,29,Europe
+ITA,Italy,Verona,255,29,Europe
+JPN,Japan,Anjo,152,29,Asia
+JPN,Japan,Hitachi,205,29,Asia
+JPN,Japan,Ichihara,281,29,Asia
+JPN,Japan,Imabari,123,29,Asia
+JPN,Japan,Iwaki,367,29,Asia
+JPN,Japan,Kakogawa,257,29,Asia
+JPN,Japan,Kamakura,175,29,Asia
+JPN,Japan,Kure,215,29,Asia
+JPN,Japan,Nagasaki,448,29,Asia
+JPN,Japan,Ogaki,153,29,Asia
+JPN,Japan,Sasebo,250,29,Asia
+JPN,Japan,Toyokawa,117,29,Asia
+JPN,Japan,Yatsushiro,110,29,Asia
+JPN,Japan,Yokkaichi,290,29,Asia
+KAZ,Kazakhstan,Taldikorgan,143,29,Asia
+KEN,Kenya,Meru,171,29,Africa
+LTU,Lithuania,Panevezhis,131,29,Europe
+MEX,Mexico,Irapuato,317,29,Americas
+MAR,Morocco,Tétouan,330,29,Africa
+POL,Poland,Bydgoszcz,401,29,Europe
+POL,Poland,Slupsk,107,29,Europe
+RUS,Russian Federation,Bratsk,290,29,Europe
+RUS,Russian Federation,Chelyabinsk,1133,29,Europe
+RUS,Russian Federation,Samara (Samarskaya oblast),1242,29,Europe
+ZAF,South Africa,Benoni,133,29,Africa
+ZAF,South Africa,Dlepmealow,283,29,Africa
+ZAF,South Africa,Durban,1364,29,Africa
+ZAF,South Africa,PRETORIA,1418,29,Africa
+ZAF,South Africa,Roodepoort,191,29,Africa
+ESP,Spain,León,148,29,Europe
+ESP,Spain,Zaragoza,617,29,Europe
+UKR,Ukraine,Pavlograd,136,29,Europe
+UKR,Ukraine,Slavyansk,137,29,Europe
+USA,United States of America,El Paso,704,29,Americas
+USA,United States of America,Oceanside,155,29,Americas
+USA,United States of America,Riverside,277,29,Americas
+USA,United States of America,Salt Lake City,1247,29,Americas
+USA,United States of America,Santa Clarita,131,29,Americas
+USA,United States of America,Sioux City,160,29,Americas
+USA,United States of America,Stockton,548,29,Americas
+ARG,Argentina,Formosa,176,28,Americas
+ARG,Argentina,Mar del Plata,594,28,Americas
+BEL,Belgium,Charleroi,303,28,Europe
+BEL,Belgium,Liège (Luik),498,28,Europe
+BIH,Bosnia and Herzegovina,Mostar,128,28,Europe
+BRA,Brazil,Alvorada,172,28,Americas
+BRA,Brazil,Barra Mansa,173,28,Americas
+BRA,Brazil,Blumenau,211,28,Americas
+BRA,Brazil,Ponta Grossa,260,28,Americas
+BRA,Brazil,Sao José,146,28,Americas
+BRA,Brazil,Sapucaia,120,28,Americas
+CAN,Canada,Nepean,119,28,Americas
+CHN,China,Hsinchuang,377,28,Asia
+COL,Colombia,Armenia,239,28,Americas
+COL,Colombia,Cali,1811,28,Americas
+CUB,Cuba,LA HABANA,2270,28,Americas
+CZE,Czech Republic,Brno,388,28,Europe
+DMA,Dominica,ROSEAU,17,28,Americas
+DEU,Germany,Erfurt,219,28,Europe
+DEU,Germany,Ludwigshafen am Rhein,172,28,Europe
+IND,India,Gadag-Betgeri,168,28,Asia
+IND,India,Guruvayur,149,28,Asia
+IND,India,Pollachi,159,28,Asia
+ITA,Italy,Allessandria,91,28,Europe
+ITA,Italy,Prato,167,28,Europe
+JPN,Japan,Akashi,289,28,Asia
+JPN,Japan,Handa,108,28,Asia
+JPN,Japan,Ibaraki,261,28,Asia
+JPN,Japan,Ikoma,107,28,Asia
+JPN,Japan,Kishiwada,196,28,Asia
+JPN,Japan,Kitakyushu,1040,28,Asia
+JPN,Japan,Kurashiki,428,28,Asia
+JPN,Japan,Misato,137,28,Asia
+JPN,Japan,Naha,306,28,Asia
+JPN,Japan,Toyohashi,359,28,Asia
+JPN,Japan,Toyota,350,28,Asia
+JPN,Japan,Yaizu,118,28,Asia
+JPN,Japan,Yokosuka,444,28,Asia
+LBN,Lebanon,Sur,109,28,Asia
+NLD,Netherlands,Almere,104,28,Europe
+PHL,Philippines,Cadiz,174,28,Asia
+PHL,Philippines,Legaspi,152,28,Asia
+PHL,Philippines,Ormoc,172,28,Asia
+PHL,Philippines,Pagadian,138,28,Asia
+POL,Poland,Kalisz,111,28,Europe
+PRI,Puerto Rico,SAN JUAN,1396,28,Americas
+KOR,Republic of Korea,Gangreung,182,28,Asia
+KOR,Republic of Korea,Gumi,245,28,Asia
+RUS,Russian Federation,Barnaul,666,28,Europe
+RUS,Russian Federation,Chita,326,28,Europe
+RUS,Russian Federation,Izhevsk,664,28,Europe
+RUS,Russian Federation,Krasnodar,771,28,Europe
+RUS,Russian Federation,Omsk,1206,28,Europe
+ZAF,South Africa,Boksburg,141,28,Africa
+ZAF,South Africa,East Rand,1825,28,Africa
+ZAF,South Africa,Germiston,158,28,Africa
+ZAF,South Africa,Kathlehong,237,28,Africa
+ZAF,South Africa,Springs,85,28,Africa
+ESP,Spain,Badajoz,128,28,Europe
+UKR,Ukraine,Lisichansk,126,28,Europe
+UKR,Ukraine,Sevastopol,371,28,Europe
+UKR,Ukraine,Severodonetsk,134,28,Europe
+USA,United States of America,Elizabeth,112,28,Americas
+USA,United States of America,Laredo,173,28,Americas
+VUT,Vanuatu,VILA,25,28,Oceania
+AUS,Australia,Townsville,95,27,Oceania
+BEL,Belgium,La Louvière,119,27,Europe
+BIH,Bosnia and Herzegovina,SARAJEVO,533,27,Europe
+BIH,Bosnia and Herzegovina,Zenica,147,27,Europe
+BRA,Brazil,Campo Grande,629,27,Americas
+BRA,Brazil,Curitiba,1569,27,Americas
+BRA,Brazil,Mauá,365,27,Americas
+BRA,Brazil,Presidente Prudente,173,27,Americas
+BRA,Brazil,Sao Leopoldo,190,27,Americas
+CAN,Canada,East York,113,27,Americas
+CAN,Canada,Longueuil,143,27,Americas
+CAN,Canada,York,155,27,Americas
+COL,Colombia,Cartago,111,27,Americas
+COL,Colombia,Pereira,384,27,Americas
+CRI,Costa Rica,Alajuela,198,27,Americas
+CZE,Czech Republic,Olomouc,106,27,Europe
+CZE,Czech Republic,PRAHA,1211,27,Europe
+ECU,Ecuador,Ibarra,128,27,Americas
+DEU,Germany,Dortmund,615,27,Europe
+DEU,Germany,Dresden,486,27,Europe
+DEU,Germany,Mannheim,324,27,Europe
+ITA,Italy,La Spezia,102,27,Europe
+ITA,Italy,Pescara,122,27,Europe
+ITA,Italy,Torre del Greco,102,27,Europe
+JPN,Japan,Kakamigahara,135,27,Asia
+JPN,Japan,Kuwana,104,27,Asia
+JPN,Japan,Nobeoka,130,27,Asia
+JPN,Japan,Obihiro,175,27,Asia
+JPN,Japan,Omuta,149,27,Asia
+JPN,Japan,Sakura,163,27,Asia
+JPN,Japan,Takatsuki,369,27,Asia
+JPN,Japan,Tottori,149,27,Asia
+JPN,Japan,Toyama,331,27,Asia
+JPN,Japan,Ube,179,27,Asia
+KAZ,Kazakhstan,Semipalatinsk,335,27,Asia
+LTU,Lithuania,VILNIUS,577,27,Europe
+MYS,Malaysia,Kuching,197,27,Asia
+PER,Peru,Chimbote,378,27,Americas
+KOR,Republic of Korea,Chinhae,143,27,Asia
+RUS,Russian Federation,Kansk,112,27,Europe
+RUS,Russian Federation,Kazan,1100,27,Europe
+RUS,Russian Federation,MOSKVA,8811,27,Europe
+RUS,Russian Federation,Perm,1062,27,Europe
+RUS,Russian Federation,Prokopyevsk,256,27,Europe
+RUS,Russian Federation,Tyumen,552,27,Europe
+ZAF,South Africa,West Rand,1161,27,Africa
+ESP,Spain,Bilbao,377,27,Europe
+UKR,Ukraine,Gorlovka,333,27,Europe
+UKR,Ukraine,Makeyevka,420,27,Europe
+TZA,United Republic of Tanzania,Mwanza,1008,27,Africa
+USA,United States of America,Birmingham,923,27,Americas
+USA,United States of America,Chicago,9024,27,Americas
+USA,United States of America,Des Moines,441,27,Americas
+USA,United States of America,Detroit,5562,27,Americas
+USA,United States of America,Pomona,152,27,Americas
+USA,United States of America,Reno,299,27,Americas
+USA,United States of America,Tucson,774,27,Americas
+ARG,Argentina,Posadas,242,26,Americas
+BEL,Belgium,Genk/Hasselt,131,26,Europe
+BEL,Belgium,Gent (Gand),258,26,Europe
+BRA,Brazil,Bragança Paulista,105,26,Americas
+BRA,Brazil,Cariacica,309,26,Americas
+BRA,Brazil,Guarapuava,141,26,Americas
+BRA,Brazil,Ipatinga,207,26,Americas
+BRA,Brazil,Pórto Alegre,1334,26,Americas
+BRA,Brazil,Sao Vicente,297,26,Americas
+BRA,Brazil,Sumaré,177,26,Americas
+CAN,Canada,Kitchener,408,26,Americas
+CAN,Canada,Mississauga,510,26,Americas
+CAN,Canada,North York,619,26,Americas
+CAN,Canada,Richmond,139,26,Americas
+CAN,Canada,Scarborough,578,26,Americas
+CAN,Canada,Toronto,4535,26,Americas
+CAN,Canada,Windsor,295,26,Americas
+COL,Colombia,Cúcuta,507,26,Americas
+HRV,Croatia,Rijeka,176,26,Europe
+ECU,Ecuador,Guayaquil,2120,26,Americas
+ECU,Ecuador,Loja,126,26,Americas
+FRA,France,Strasbourg,411,26,Europe
+DEU,Germany,Duisburg,549,26,Europe
+DEU,Germany,Düsseldorf,586,26,Europe
+DEU,Germany,Karlsruhe,284,26,Europe
+DEU,Germany,Mainz,189,26,Europe
+DEU,Germany,Nürnberg,508,26,Europe
+HUN,Hungary,BUDAPEST,1958,26,Europe
+IND,India,Kanhangad,148,26,Asia
+IND,India,Vadakara,128,26,Asia
+ITA,Italy,Trieste,231,26,Europe
+ITA,Italy,Udine,100,26,Europe
+JPN,Japan,Fujieda,127,26,Asia
+JPN,Japan,Hachinohe,246,26,Asia
+JPN,Japan,Hadano,166,26,Asia
+JPN,Japan,Ise,105,26,Asia
+JPN,Japan,Kobe,1549,26,Asia
+JPN,Japan,Nagano,362,26,Asia
+JPN,Japan,Nagaoka,194,26,Asia
+JPN,Japan,Okazaki,329,26,Asia
+JPN,Japan,Sapporo,1780,26,Asia
+JPN,Japan,Suzuka,183,26,Asia
+JPN,Japan,Takamatsu,337,26,Asia
+JPN,Japan,Tsu,166,26,Asia
+MDG,Madagascar,Mahajanga,147,26,Africa
+MEX,Mexico,Jalapa,359,26,Americas
+MAR,Morocco,Agadir,166,26,Africa
+MAR,Morocco,El Jadida,152,26,Africa
+MAR,Morocco,Tanger,372,26,Africa
+MOZ,Mozambique,Nampula,481,26,Africa
+NIC,Nicaragua,Chinandega,111,26,Americas
+PRT,Portugal,Setubal,134,26,Europe
+RUS,Russian Federation,Achinsk,125,26,Europe
+RUS,Russian Federation,Kirov (Azerbaidzhanskaya SSR),508,26,Europe
+RUS,Russian Federation,Kiselevsk,124,26,Europe
+RUS,Russian Federation,Magadan,144,26,Europe
+RUS,Russian Federation,Naltchik,258,26,Europe
+RUS,Russian Federation,Novokuznetsk,599,26,Europe
+RUS,Russian Federation,Penza,538,26,Europe
+RUS,Russian Federation,Rostov-na-Donu,1030,26,Europe
+RUS,Russian Federation,Sterlitamak,262,26,Europe
+RUS,Russian Federation,Ufa,1115,26,Europe
+RUS,Russian Federation,Volgograd,1044,26,Europe
+RUS,Russian Federation,Volzhsky,299,26,Europe
+ZAF,South Africa,Vereeniging,84,26,Africa
+CHE,Switzerland,Luzern,191,26,Europe
+CHE,Switzerland,Winterthur,123,26,Europe
+UKR,Ukraine,Berdyansk,136,26,Europe
+UKR,Ukraine,Stakhanov,113,26,Europe
+UKR,Ukraine,Yenakievo,118,26,Europe
+USA,United States of America,Baton Rouge,591,26,Americas
+USA,United States of America,Charlotte,1334,26,Americas
+USA,United States of America,Chula Vista,158,26,Americas
+USA,United States of America,Louisville,1038,26,Americas
+USA,United States of America,Thousand Oaks,117,26,Americas
+UZB,Uzbekistan,Angren,144,26,Asia
+AUS,Australia,CANBERRA,305,25,Oceania
+BEL,Belgium,Kortrijk,118,25,Europe
+BEL,Belgium,Namur,106,25,Europe
+BRA,Brazil,Colombo,155,25,Americas
+BRA,Brazil,Foz do Iguaçu,243,25,Americas
+BRA,Brazil,Itu,119,25,Americas
+BRA,Brazil,Joinville,396,25,Americas
+BRA,Brazil,Jundiaí,294,25,Americas
+BRA,Brazil,Novo Hamburgo,225,25,Americas
+BRA,Brazil,Pindamonhangaba,114,25,Americas
+BRA,Brazil,Santa Barbara D'Oeste,168,25,Americas
+BRA,Brazil,Uruguaiana,120,25,Americas
+CAN,Canada,Calgary,863,25,Americas
+CAN,Canada,Etobicoke,341,25,Americas
+CAN,Canada,Laval,346,25,Americas
+CHN,China,Fengshan,352,25,Asia
+COL,Colombia,Medellín,1712,25,Americas
+COL,Colombia,Villavicencio,243,25,Americas
+CUB,Cuba,Bayamo,144,25,Americas
+DEU,Germany,Augsburg,268,25,Europe
+DEU,Germany,BERLIN,3555,25,Europe
+DEU,Germany,Freiburg im Breisgau,203,25,Europe
+DEU,Germany,Fürth,110,25,Europe
+DEU,Germany,Heilbronn,125,25,Europe
+DEU,Germany,Offenbach am Main,119,25,Europe
+DEU,Germany,Ulm,118,25,Europe
+GHA,Ghana,Sekondi-Takoradi,326,25,Africa
+GRC,Greece,Iraclion,139,25,Europe
+GRD,Grenada,ST. GEORGE'S,35,25,Americas
+ITA,Italy,Ancona,102,25,Europe
+ITA,Italy,Catania,332,25,Europe
+ITA,Italy,Ravenna,136,25,Europe
+JPN,Japan,Aizuwakamatsu,123,25,Asia
+JPN,Japan,Akita,316,25,Asia
+JPN,Japan,Fukui,260,25,Asia
+JPN,Japan,Fukushima,290,25,Asia
+JPN,Japan,Higashihiroshima,110,25,Asia
+JPN,Japan,Hirakata,405,25,Asia
+JPN,Japan,Matsusaka,123,25,Asia
+JPN,Japan,Miyakonojo,134,25,Asia
+JPN,Japan,Odawara,203,25,Asia
+JPN,Japan,Shimizu,246,25,Asia
+JPN,Japan,Wakayama,403,25,Asia
+KAZ,Kazakhstan,Kzyl-Orda,161,25,Asia
+KAZ,Kazakhstan,Ust-Kamenogorsk,334,25,Asia
+MYS,Malaysia,Johore Bharu,591,25,Asia
+MEX,Mexico,Benito Juarez-Cancun-Q.Roo,212,25,Americas
+MAR,Morocco,Oujda,401,25,Africa
+PHL,Philippines,Bago,170,25,Asia
+PHL,Philippines,Tacloban,186,25,Asia
+PRI,Puerto Rico,Bayamón,246,25,Americas
+ROM,Romania,BUCURESTI,2070,25,Europe
+RUS,Russian Federation,Cheboksary,470,25,Europe
+RUS,Russian Federation,Engels,223,25,Europe
+RUS,Russian Federation,Ioshkar-Ola,281,25,Europe
+RUS,Russian Federation,Kemerovo,549,25,Europe
+RUS,Russian Federation,Khimki,139,25,Europe
+RUS,Russian Federation,Kurgan,373,25,Europe
+RUS,Russian Federation,Ulyanovsk,394,25,Europe
+RUS,Russian Federation,Voronezh,992,25,Europe
+ZAF,South Africa,Evaton,236,25,Africa
+ZAF,South Africa,Kempton Park,125,25,Africa
+ZAF,South Africa,Mamelodi,182,25,Africa
+ZAF,South Africa,Pietermaritzburg,184,25,Africa
+THA,Thailand,Songkhla,302,25,Asia
+UKR,Ukraine,Alchevsk,127,25,Europe
+UKR,Ukraine,Evpatoriya,44,25,Europe
+USA,United States of America,Atlanta,3525,25,Americas
+USA,United States of America,Brownsville,317,25,Americas
+USA,United States of America,Dallas,4617,25,Americas
+USA,United States of America,Houston,4338,25,Americas
+USA,United States of America,Mobile,542,25,Americas
+USA,United States of America,Nashville-Davidson,1132,25,Americas
+USA,United States of America,Overland Park,133,25,Americas
+USA,United States of America,Pittsburgh,2542,25,Americas
+USA,United States of America,Rancho Cucamonga,121,25,Americas
+USA,United States of America,San Diego,1219,25,Americas
+USA,United States of America,Santa Ana,308,25,Americas
+USA,United States of America,Topeka,175,25,Americas
+BEL,Belgium,Brugge,120,24,Europe
+BEL,Belgium,Mons,180,24,Europe
+BRA,Brazil,Guarujá,241,24,Americas
+BRA,Brazil,Nova Friburgo,156,24,Americas
+BRA,Brazil,Susano,185,24,Americas
+BRA,Brazil,Teresina,653,24,Americas
+CAN,Canada,Brampton,258,24,Americas
+CAN,Canada,Edmonton,941,24,Americas
+CAN,Canada,London,435,24,Americas
+CAN,Canada,St. Catharines,407,24,Americas
+CAN,Canada,Trois-Rivières,149,24,Americas
+CHN,China,Tali,166,24,Asia
+COL,Colombia,Palmira,217,24,Americas
+COL,Colombia,Soacha,246,24,Americas
+CUB,Cuba,Holguín,253,24,Americas
+CUB,Cuba,Santiago de Cuba,449,24,Americas
+CZE,Czech Republic,Hradec Králové,100,24,Europe
+DNK,Denmark,KOBENHAVN,1371,24,Europe
+ECU,Ecuador,Portoviejo,180,24,Americas
+EST,Estonia,Tartu,98,24,Europe
+FRA,France,Bordeaux,737,24,Europe
+FRA,France,Grenoble,428,24,Europe
+DEU,Germany,Darmstadt,142,24,Europe
+DEU,Germany,Hamburg,1747,24,Europe
+DEU,Germany,Köln,987,24,Europe
+DEU,Germany,Leipzig,493,24,Europe
+DEU,Germany,Pforzheim,121,24,Europe
+DEU,Germany,Reutlingen,110,24,Europe
+IND,India,Malappuram,178,24,Asia
+ITA,Italy,Bari,344,24,Europe
+ITA,Italy,Cagliari,205,24,Europe
+JPN,Japan,Fujinomiya,123,24,Asia
+JPN,Japan,Ikeda,105,24,Asia
+JPN,Japan,Kashihara,123,24,Asia
+JPN,Japan,Morioka,291,24,Asia
+JPN,Japan,Niiza,146,24,Asia
+JPN,Japan,Shimonoseki,265,24,Asia
+JPN,Japan,Tondabayashi,122,24,Asia
+JPN,Japan,Yamagata,258,24,Asia
+KAZ,Kazakhstan,Pavlograd,359,24,Asia
+LVA,Latvia,Daugavpils,112,24,Europe
+MYS,Malaysia,KUALA LUMPUR,1530,24,Asia
+MAR,Morocco,Marrakech,730,24,Africa
+MAR,Morocco,Safi,337,24,Africa
+PHL,Philippines,Toledo,153,24,Asia
+PRI,Puerto Rico,Ponce,207,24,Americas
+RUS,Russian Federation,Armavir,182,24,Europe
+RUS,Russian Federation,Belgorod,323,24,Europe
+RUS,Russian Federation,Berezniki,191,24,Europe
+RUS,Russian Federation,Dimitrovgrad,136,24,Europe
+RUS,Russian Federation,Kaluga,368,24,Europe
+RUS,Russian Federation,Kolpino,147,24,Europe
+RUS,Russian Federation,Leninsk-Kuznetsky,164,24,Europe
+RUS,Russian Federation,Naberezhnye Tchelny,542,24,Europe
+RUS,Russian Federation,Nizhny Novgorod,1415,24,Europe
+RUS,Russian Federation,Novokuybishevsk,119,24,Europe
+RUS,Russian Federation,Orsk,285,24,Europe
+RUS,Russian Federation,Saransk,355,24,Europe
+RUS,Russian Federation,Saratov,917,24,Europe
+RUS,Russian Federation,Solikamsk,110,24,Europe
+RUS,Russian Federation,Stavropol,344,24,Europe
+RUS,Russian Federation,Syzran,189,24,Europe
+RUS,Russian Federation,Taganrog,295,24,Europe
+RUS,Russian Federation,Tolyatti,719,24,Europe
+RUS,Russian Federation,Tula,589,24,Europe
+RUS,Russian Federation,Tver,461,24,Europe
+SVK,Slovakia,Kosice,243,24,Europe
+ZAF,South Africa,Daveyton,178,24,Africa
+CHE,Switzerland,Zürich,980,24,Europe
+TTO,Trinidad and Tobago,PORT-OF-SPAIN,47,24,Americas
+UKR,Ukraine,Konstantinovka,105,24,Europe
+TZA,United Republic of Tanzania,Arusha,228,24,Africa
+USA,United States of America,Chattanooga,465,24,Americas
+USA,United States of America,Columbia (S.C.),515,24,Americas
+USA,United States of America,Little Rock,569,24,Americas
+USA,United States of America,Macon,325,24,Americas
+USA,United States of America,Mesquite,120,24,Americas
+USA,United States of America,Palmdale,109,24,Americas
+USA,United States of America,Plano,167,24,Americas
+USA,United States of America,Savannah,292,24,Americas
+USA,United States of America,Tallahassee,268,24,Americas
+USA,United States of America,Tampa,2282,24,Americas
+BLZ,Belize,BELMOPAN,60,23,Americas
+BRA,Brazil,Juiz de Fora,446,23,Americas
+BRA,Brazil,Lages,147,23,Americas
+BRA,Brazil,Londrina,426,23,Americas
+BRA,Brazil,Maringá,277,23,Americas
+BRA,Brazil,Petrópolis,280,23,Americas
+BRA,Brazil,Praia Grande,160,23,Americas
+BRA,Brazil,Rio Branco,214,23,Americas
+BRA,Brazil,Timon,107,23,Americas
+BRA,Brazil,Várzea Grande,189,23,Americas
+CAN,Canada,Burlington,143,23,Americas
+CAN,Canada,Oshawa,282,23,Americas
+COL,Colombia,Pasto,288,23,Americas
+DNK,Denmark,Alborg,161,23,Europe
+FRA,France,Montpellier,263,23,Europe
+DEU,Germany,Heidelberg,142,23,Europe
+DEU,Germany,Herne,184,23,Europe
+DEU,Germany,Ingolstadt,114,23,Europe
+DEU,Germany,Regensburg,129,23,Europe
+DEU,Germany,Würzburg,131,23,Europe
+HUN,Hungary,Pécs,168,23,Europe
+IRL,Ireland,DUBLIN,991,23,Europe
+ITA,Italy,Foggia,156,23,Europe
+ITA,Italy,Salerno,155,23,Europe
+ITA,Italy,Terni,108,23,Europe
+JPN,Japan,Aomori,296,23,Asia
+JPN,Japan,Asahikawa,370,23,Asia
+JPN,Japan,Ebetsu,113,23,Asia
+JPN,Japan,Kawachinagano,118,23,Asia
+JPN,Japan,Kochi,327,23,Asia
+JPN,Japan,Noda,121,23,Asia
+JPN,Japan,Ota,146,23,Asia
+JPN,Japan,Sakata,103,23,Asia
+JPN,Japan,Takaoka,179,23,Asia
+JPN,Japan,Ueda,124,23,Asia
+KAZ,Kazakhstan,Akmola,285,23,Asia
+MWI,Malawi,Blantyre-Limbe,521,23,Africa
+MYS,Malaysia,Petaling Jaya,470,23,Asia
+MAR,Morocco,Mohammedia,189,23,Africa
+NOR,Norway,OSLO,805,23,Europe
+NOR,Norway,Trondheim,149,23,Europe
+PHL,Philippines,San Juan,184,23,Asia
+PRI,Puerto Rico,Arecibo,204,23,Americas
+PRI,Puerto Rico,Caguas,152,23,Americas
+RUS,Russian Federation,Balakovo,212,23,Europe
+RUS,Russian Federation,Biisk,243,23,Europe
+RUS,Russian Federation,Cherkessk,120,23,Europe
+RUS,Russian Federation,Lipetsk,519,23,Europe
+RUS,Russian Federation,Maikop,179,23,Europe
+RUS,Russian Federation,Mytishchi,156,23,Europe
+RUS,Russian Federation,Novgorod,244,23,Europe
+RUS,Russian Federation,Novocheboksarsk,126,23,Europe
+RUS,Russian Federation,Novorossiysk,247,23,Europe
+RUS,Russian Federation,Odintsovo,133,23,Europe
+RUS,Russian Federation,Orel,349,23,Europe
+RUS,Russian Federation,Rubtsovsk,174,23,Europe
+RUS,Russian Federation,Ryazan,541,23,Europe
+RUS,Russian Federation,Shakhty,263,23,Europe
+RUS,Russian Federation,Smolensk,357,23,Europe
+RUS,Russian Federation,Tambov,319,23,Europe
+RUS,Russian Federation,Tomsk,476,23,Europe
+RUS,Russian Federation,Vladimir,363,23,Europe
+RUS,Russian Federation,Votkinsk,106,23,Europe
+RUS,Russian Federation,Yaroslave,636,23,Europe
+RUS,Russian Federation,Zlatoust,209,23,Europe
+KNA,Saint Kitts and Nevis,BASSETERRE,12,23,Americas
+ZAF,South Africa,Bloemfontein,149,23,Africa
+ZAF,South Africa,Botshabelo,209,23,Africa
+CHE,Switzerland,Basel,431,23,Europe
+CHE,Switzerland,Genève,467,23,Europe
+CHE,Switzerland,Lausanne,302,23,Europe
+GBR,United Kingdom,Greater London,7812,23,Europe
+USA,United States of America,Alexandria (Va.),119,23,Americas
+USA,United States of America,Arlington (Tx.),304,23,Americas
+USA,United States of America,Baltimore,744,23,Americas
+USA,United States of America,Cincinnati,2005,23,Americas
+USA,United States of America,Columbus (Oh.),1506,23,Americas
+USA,United States of America,Dayton,1012,23,Americas
+USA,United States of America,Escondido,123,23,Americas
+USA,United States of America,Evansville,303,23,Americas
+USA,United States of America,Fremont,194,23,Americas
+USA,United States of America,Gary,121,23,Americas
+USA,United States of America,Grand Prairie (Tx.),115,23,Americas
+USA,United States of America,Irving (Tx.),175,23,Americas
+USA,United States of America,Jacksonville (Fl.),1029,23,Americas
+USA,United States of America,Kansas City (Mo.),1743,23,Americas
+USA,United States of America,Lafayette (La.),382,23,Americas
+USA,United States of America,Lancaster (Pa.),126,23,Americas
+USA,United States of America,New Orleans,1385,23,Americas
+USA,United States of America,New York,20951,23,Americas
+USA,United States of America,Oklahoma City,1066,23,Americas
+USA,United States of America,Providence,1195,23,Americas
+USA,United States of America,Spokane,408,23,Americas
+USA,United States of America,Springfield (Ma.),614,23,Americas
+USA,United States of America,St. Louis,2684,23,Americas
+USA,United States of America,St. Petersburg,253,23,Americas
+USA,United States of America,Tulsa,786,23,Americas
+ARG,Argentina,Comodoro Rivadavia,141,22,Americas
+AUS,Australia,Greater Wollongong,802,22,Oceania
+AUS,Australia,Hobart,198,22,Oceania
+AUS,Australia,Sydney,3855,22,Oceania
+BRA,Brazil,Caxias,96,22,Americas
+BRA,Brazil,Fortaleza,2090,22,Americas
+BRA,Brazil,Macae,117,22,Americas
+BRA,Brazil,Natal,697,22,Americas
+BRA,Brazil,Pelotas,301,22,Americas
+BRA,Brazil,Pórto Velho,253,22,Americas
+BRA,Brazil,Santos,436,22,Americas
+BRA,Brazil,Serra,286,22,Americas
+BRA,Brazil,Teresópolis,112,22,Americas
+BRA,Brazil,Vitoria da Conquista,217,22,Americas
+CAN,Canada,Chicoutimi-Jonquière,178,22,Americas
+CAN,Canada,Markham,169,22,Americas
+CAN,Canada,Montréal,3519,22,Americas
+COL,Colombia,Itagüi,194,22,Americas
+CUB,Cuba,Pinar del Río,134,22,Americas
+CUB,Cuba,Santa Clara,214,22,Americas
+CZE,Czech Republic,Pizen,171,22,Europe
+ZAR,Democratic Republic of the Congo,Kisangani,556,22,Africa
+DNK,Denmark,Odense,185,22,Europe
+ECU,Ecuador,Quevedo,130,22,Americas
+FIN,Finland,HELSINKI,1095,22,Europe
+DEU,Germany,Bochum,411,22,Europe
+DEU,Germany,Bonn,300,22,Europe
+DEU,Germany,Bottrop,123,22,Europe
+DEU,Germany,Essen,633,22,Europe
+DEU,Germany,Frankfurt am Main,668,22,Europe
+DEU,Germany,Gelsenkirchen,301,22,Europe
+DEU,Germany,Kassel,207,22,Europe
+DEU,Germany,Koblenz,112,22,Europe
+DEU,Germany,München,1275,22,Europe
+DEU,Germany,Münster (Westf.),271,22,Europe
+DEU,Germany,Oberhausen,231,22,Europe
+DEU,Germany,Wiesbaden,272,22,Europe
+HND,Honduras,La Ceiba,214,22,Americas
+HUN,Hungary,Debrecen,214,22,Europe
+HUN,Hungary,Kecskemet,105,22,Europe
+ITA,Italy,Messina,274,22,Europe
+ITA,Italy,Perugia,145,22,Europe
+ITA,Italy,Reggio di Calabria,171,22,Europe
+JPN,Japan,Hakodate,308,22,Asia
+JPN,Japan,Hirosaki,179,22,Asia
+JPN,Japan,Ishinomaki,124,22,Asia
+JPN,Japan,Iwakuni,111,22,Asia
+JPN,Japan,Kisarazu,128,22,Asia
+JPN,Japan,Komatsu,109,22,Asia
+JPN,Japan,Niihama,131,22,Asia
+JPN,Japan,Tsukuba,157,22,Asia
+JPN,Japan,Yonago,136,22,Asia
+KAZ,Kazakhstan,Chimkent,386,22,Asia
+KAZ,Kazakhstan,Karaganda,582,22,Asia
+KAZ,Kazakhstan,Koktchetav,143,22,Asia
+LVA,Latvia,RIGA,787,22,Europe
+MYS,Malaysia,George Town,293,22,Asia
+MEX,Mexico,Córdoba,184,22,Americas
+PER,Peru,Sullana,180,22,Americas
+PHL,Philippines,Calbayog,158,22,Asia
+ROM,Romania,Pitesti,185,22,Europe
+RUS,Russian Federation,Arzamas,113,22,Europe
+RUS,Russian Federation,Balashikha,137,22,Europe
+RUS,Russian Federation,Glazov,109,22,Europe
+RUS,Russian Federation,Kovrov,165,22,Europe
+RUS,Russian Federation,Kursk,444,22,Europe
+RUS,Russian Federation,Nizhny Tagil,418,22,Europe
+RUS,Russian Federation,Novoshakhtinsk,124,22,Europe
+RUS,Russian Federation,Podolsk,205,22,Europe
+RUS,Russian Federation,Pyatigorsk,187,22,Europe
+RUS,Russian Federation,Serpukhov,142,22,Europe
+RUS,Russian Federation,Starsy Oskol,199,22,Europe
+RUS,Russian Federation,Surgut,268,22,Europe
+RUS,Russian Federation,Uzno-Sakhalinsk,171,22,Europe
+RUS,Russian Federation,Velikie Luky,118,22,Europe
+RUS,Russian Federation,Zelenodolsk,104,22,Europe
+SVK,Slovakia,BRATISLAVA,456,22,Europe
+ZAF,South Africa,Tembisa,246,22,Africa
+ZAF,South Africa,Umlazi,352,22,Africa
+UKR,Ukraine,Ivano-Frankovsk,232,22,Europe
+GBR,United Kingdom,Southampton/Eastleigh,283,22,Europe
+USA,United States of America,Aurora (Il.),119,22,Americas
+USA,United States of America,Boston,5818,22,Americas
+USA,United States of America,Corpus Christi,398,22,Americas
+USA,United States of America,Denver,2318,22,Americas
+USA,United States of America,Greensboro,1172,22,Americas
+USA,United States of America,Indianapolis,1547,22,Americas
+USA,United States of America,Lexington-Fayette,456,22,Americas
+USA,United States of America,Lincoln,239,22,Americas
+USA,United States of America,Memphis,1118,22,Americas
+USA,United States of America,Milwaukee,1733,22,Americas
+USA,United States of America,New Haven,127,22,Americas
+USA,United States of America,Oakland,388,22,Americas
+USA,United States of America,Paterson,146,22,Americas
+USA,United States of America,Peoria,364,22,Americas
+USA,United States of America,Sacramento,1681,22,Americas
+USA,United States of America,Salem,123,22,Americas
+AUT,Austria,Linz,297,21,Europe
+BRA,Brazil,Belém,905,21,Americas
+BRA,Brazil,Florianópolis,266,21,Americas
+BRA,Brazil,Piraquara,114,21,Americas
+BRA,Brazil,Salvador,2349,21,Americas
+CAN,Canada,Québec,724,21,Americas
+CAN,Canada,Sherbrooke,153,21,Americas
+CAN,Canada,Winnipeg,721,21,Americas
+CHL,Chile,Punta Arenas,125,21,Americas
+COL,Colombia,Popayan,187,21,Americas
+CUB,Cuba,Las Tunas,132,21,Americas
+CZE,Czech Republic,Liberec,100,21,Europe
+ECU,Ecuador,Santo Domingo de los Colorados,197,21,Americas
+GAB,Gabon,LIBREVILLE,544,21,Africa
+DEU,Germany,Bielefeld,332,21,Europe
+DEU,Germany,Braunschweig,260,21,Europe
+DEU,Germany,Erlangen,104,21,Europe
+DEU,Germany,Hildesheim,109,21,Europe
+DEU,Germany,Kaiserslautern,104,21,Europe
+DEU,Germany,Leverkusen,166,21,Europe
+DEU,Germany,Moers,110,21,Europe
+DEU,Germany,Neuss,152,21,Europe
+DEU,Germany,Osnabrück,172,21,Europe
+DEU,Germany,Paderborn,135,21,Europe
+DEU,Germany,Siegen,114,21,Europe
+DEU,Germany,Wuppertal,393,21,Europe
+HUN,Hungary,Györ,129,21,Europe
+HUN,Hungary,Nyiregyhaza,114,21,Europe
+HUN,Hungary,Székesfehérvár,109,21,Europe
+ISL,Iceland,REYKJAVIK,164,21,Europe
+ITA,Italy,Bolzano,99,21,Europe
+ITA,Italy,Cosenza,88,21,Europe
+ITA,Italy,Taranto,234,21,Europe
+JPN,Japan,Beppu,132,21,Asia
+JPN,Japan,Hofu,122,21,Asia
+JPN,Japan,Kanazawa,457,21,Asia
+JPN,Japan,Kushiro,205,21,Asia
+JPN,Japan,Matsue,149,21,Asia
+JPN,Japan,Tokuyama,112,21,Asia
+JPN,Japan,Tsuruoka,102,21,Asia
+KAZ,Kazakhstan,Aktjubinsk,260,21,Asia
+KAZ,Kazakhstan,Ekibastuz,148,21,Asia
+KAZ,Kazakhstan,Petropavlovsk (Severo-Kazakstanskaya oblast),243,21,Asia
+KAZ,Kazakhstan,Rudni,143,21,Asia
+MYS,Malaysia,Kelang,492,21,Asia
+MYS,Malaysia,Seremban,258,21,Asia
+NZL,New Zealand,Christchurch,340,21,Oceania
+NZL,New Zealand,Hamilton,165,21,Oceania
+NZL,New Zealand,Napier-Hastings,120,21,Oceania
+KOR,Republic of Korea,Cheju,277,21,Asia
+ROM,Romania,Cluj-Napoca,328,21,Europe
+ROM,Romania,Timisoara,329,21,Europe
+RUS,Russian Federation,Dzerzhinsk (Novgorodskaya oblast),302,21,Europe
+RUS,Russian Federation,Elets,120,21,Europe
+RUS,Russian Federation,Kaliningrad (Moskovskaya oblast),166,21,Europe
+RUS,Russian Federation,Kamensk-Uralsky,201,21,Europe
+RUS,Russian Federation,Kamyshin,131,21,Europe
+RUS,Russian Federation,Kineshma,104,21,Europe
+RUS,Russian Federation,Kolomna,157,21,Europe
+RUS,Russian Federation,Kostroma,291,21,Europe
+RUS,Russian Federation,Kuznetsk,103,21,Europe
+RUS,Russian Federation,Lyubertsy,168,21,Europe
+RUS,Russian Federation,Magnitogorsk,433,21,Europe
+RUS,Russian Federation,Miass,183,21,Europe
+RUS,Russian Federation,Michurinsk,123,21,Europe
+RUS,Russian Federation,Murom,146,21,Europe
+RUS,Russian Federation,Nevinnomyssk,132,21,Europe
+RUS,Russian Federation,Noginsk,122,21,Europe
+RUS,Russian Federation,Novocherkassk,205,21,Europe
+RUS,Russian Federation,Novosibirsk,1425,21,Europe
+RUS,Russian Federation,Novotroitsk,118,21,Europe
+RUS,Russian Federation,Oktyabrsky,111,21,Europe
+RUS,Russian Federation,Orekhovo-Zuevo,128,21,Europe
+RUS,Russian Federation,Orenburg,555,21,Europe
+RUS,Russian Federation,Rybinsk,254,21,Europe
+RUS,Russian Federation,Sochi,391,21,Europe
+RUS,Russian Federation,Syktivkar,248,21,Europe
+RUS,Russian Federation,Vologda,308,21,Europe
+RUS,Russian Federation,Zhukovsky,102,21,Europe
+ZAF,South Africa,Sasolburg,1081,21,Africa
+UKR,Ukraine,Krasny Lutch,114,21,Europe
+GBR,United Kingdom,Cardiff,315,21,Europe
+USA,United States of America,Ann Arbor,115,21,Americas
+USA,United States of America,Aurora (Co.),265,21,Americas
+USA,United States of America,Cedar Rapids,187,21,Americas
+USA,United States of America,Chesapeake,191,21,Americas
+USA,United States of America,Durham,152,21,Americas
+USA,United States of America,Fort Worth,478,21,Americas
+USA,United States of America,Hialeah,205,21,Americas
+USA,United States of America,Jersey City,239,21,Americas
+USA,United States of America,Lakewood,133,21,Americas
+USA,United States of America,Lansing,462,21,Americas
+USA,United States of America,Lubbock,244,21,Americas
+USA,United States of America,Miami,3607,21,Americas
+USA,United States of America,Moreno Valley,147,21,Americas
+USA,United States of America,Pasadena (Tx.),137,21,Americas
+USA,United States of America,Portsmouth (Va.),110,21,Americas
+USA,United States of America,Raleigh,1019,21,Americas
+USA,United States of America,San Jose,653,21,Americas
+USA,United States of America,Springfield (Ill.),207,21,Americas
+USA,United States of America,Springfield (Ohio),113,21,Americas
+USA,United States of America,St. Paul,285,21,Americas
+USA,United States of America,Sunnyvale,127,21,Americas
+USA,United States of America,WASHINGTON D.C.,7463,21,Americas
+USA,United States of America,Wichita,536,21,Americas
+USA,United States of America,Winston-Salem,164,21,Americas
+BRA,Brazil,Bage,101,20,Americas
+BRA,Brazil,Garanhuns,103,20,Americas
+BRA,Brazil,Gravatai,202,20,Americas
+BRA,Brazil,Indaiatuba,127,20,Americas
+BRA,Brazil,Itapetininga,106,20,Americas
+BRA,Brazil,Joao Pessoa,584,20,Americas
+BRA,Brazil,Recife,1431,20,Americas
+CAN,Canada,Gloucester,112,20,Americas
+CAN,Canada,Kelowna,123,20,Americas
+CAN,Canada,Oakville,126,20,Americas
+COL,Colombia,Neiva,262,20,Americas
+COL,Colombia,Valledupar,223,20,Americas
+CUB,Cuba,Guantánamo,217,20,Americas
+CUB,Cuba,Matanzas,128,20,Americas
+FRO,Faeroe Islands,THORSHAVN,17,20,Europe
+FIN,Finland,Tampere,261,20,Europe
+FIN,Finland,Vantaa,173,20,Europe
+DEU,Germany,Chemnitz,281,20,Europe
+DEU,Germany,Göttingen,131,20,Europe
+DEU,Germany,Hagen,219,20,Europe
+DEU,Germany,Hamm,188,20,Europe
+DEU,Germany,Jena,105,20,Europe
+DEU,Germany,Krefeld,256,20,Europe
+DEU,Germany,Lübeck,222,20,Europe
+DEU,Germany,Mönchengladbach,272,20,Europe
+DEU,Germany,Mülheim a.d. Ruhr,181,20,Europe
+DEU,Germany,Oldenburg,153,20,Europe
+DEU,Germany,Potsdam,142,20,Europe
+DEU,Germany,Recklinghausen,130,20,Europe
+DEU,Germany,Saarbrücken,194,20,Europe
+HUN,Hungary,Miskolc,186,20,Europe
+ITA,Italy,Catanzaro,94,20,Europe
+JPN,Japan,Fukuyama,381,20,Asia
+JPN,Japan,Hikone,105,20,Asia
+JPN,Japan,Matsubara,136,20,Asia
+JPN,Japan,Matsumoto,209,20,Asia
+JPN,Japan,Sendai,978,20,Asia
+JPN,Japan,Yamaguchi,137,20,Asia
+KAZ,Kazakhstan,Temirtau,222,20,Asia
+KAZ,Kazakhstan,Uralsk,240,20,Asia
+LTU,Lithuania,Klaipeda,203,20,Europe
+MDG,Madagascar,Toamasina,190,20,Africa
+MYS,Malaysia,Kuantan,269,20,Asia
+PER,Peru,Pucallpa,193,20,Americas
+PHL,Philippines,San Carlos (Negros Occ.),153,20,Asia
+PRI,Puerto Rico,Carolina,202,20,Americas
+ROM,Romania,Arad,189,20,Europe
+ROM,Romania,Satu-Mare,132,20,Europe
+ROM,Romania,Sibiu,171,20,Europe
+RUS,Russian Federation,Almetievsk,150,20,Europe
+RUS,Russian Federation,Anzhero-Sudzhensk,109,20,Europe
+RUS,Russian Federation,Elektrostal,153,20,Europe
+RUS,Russian Federation,Kaliningrad (Kaliningradskaya oblast),424,20,Europe
+RUS,Russian Federation,Mezhdurechensk,106,20,Europe
+RUS,Russian Federation,Nizhenvartovsk,247,20,Europe
+RUS,Russian Federation,Nizhnekamsk,213,20,Europe
+RUS,Russian Federation,Pervouralsk,167,20,Europe
+RUS,Russian Federation,Pskov,210,20,Europe
+RUS,Russian Federation,Sergiev Posad,116,20,Europe
+RUS,Russian Federation,Shchelkovo,109,20,Europe
+RUS,Russian Federation,Volgodonsk,195,20,Europe
+ZAF,South Africa,Kwamashu,184,20,Africa
+GBR,United Kingdom,Bournemouth,366,20,Europe
+GBR,United Kingdom,Derby,229,20,Europe
+GBR,United Kingdom,Leicester,425,20,Europe
+GBR,United Kingdom,Nottingham,627,20,Europe
+GBR,United Kingdom,Slough,129,20,Europe
+USA,United States of America,Akron,235,20,Americas
+USA,United States of America,Albuquerque,683,20,Americas
+USA,United States of America,Anchorage,268,20,Americas
+USA,United States of America,Boise City,368,20,Americas
+USA,United States of America,Bridgeport,141,20,Americas
+USA,United States of America,Buffalo,1259,20,Americas
+USA,United States of America,Columbus (Ga.),290,20,Americas
+USA,United States of America,Green Bay,219,20,Americas
+USA,United States of America,Hampton,148,20,Americas
+USA,United States of America,Huntsville,335,20,Americas
+USA,United States of America,Montgomery,330,20,Americas
+USA,United States of America,Norfolk,1618,20,Americas
+USA,United States of America,Orlando,1441,20,Americas
+USA,United States of America,Portland (Or.),2098,20,Americas
+USA,United States of America,Pueblo,135,20,Americas
+USA,United States of America,Salinas,372,20,Americas
+USA,United States of America,San Francisco,6893,20,Americas
+USA,United States of America,Shreveport,400,20,Americas
+USA,United States of America,Warren,151,20,Americas
+USA,United States of America,Yonkers,194,20,Americas
+VNM,Viet Nam,Buonmathuot,377,20,Asia
+AUS,Australia,Brisbane,1453,19,Oceania
+AUS,Australia,Central Coast,215,19,Oceania
+BRA,Brazil,Caruaru,212,19,Americas
+BRA,Brazil,Itaboraí,181,19,Americas
+BRA,Brazil,Moji das Cruzes,298,19,Americas
+BRA,Brazil,Olinda,371,19,Americas
+BRA,Brazil,Sao Carlo,174,19,Americas
+CAN,Canada,Kingston,150,19,Americas
+CAN,Canada,Regina,211,19,Americas
+CUB,Cuba,Cienfuegos,136,19,Americas
+CZE,Czech Republic,Ústí nad Labem,97,19,Europe
+DNK,Denmark,Arhus,281,19,Europe
+ECU,Ecuador,Machala,212,19,Americas
+EST,Estonia,TALLINN,407,19,Europe
+FIN,Finland,Espoo,196,19,Europe
+FIN,Finland,Turku,269,19,Europe
+FRA,France,Mulhouse,237,19,Europe
+DEU,Germany,Bergisch Gladbach,108,19,Europe
+DEU,Germany,Bremerhaven,134,19,Europe
+DEU,Germany,Cottbus,129,19,Europe
+DEU,Germany,Magdeburg,272,19,Europe
+DEU,Germany,Remscheid,126,19,Europe
+DEU,Germany,Rostock,238,19,Europe
+DEU,Germany,Solingen,170,19,Europe
+DEU,Germany,Witten,108,19,Europe
+DEU,Germany,Wolfsburg,130,19,Europe
+ITA,Italy,Sassari,118,19,Europe
+JPN,Japan,Fuchu,220,19,Asia
+JPN,Japan,Kitami,112,19,Asia
+JPN,Japan,Koshigaya,303,19,Asia
+MYS,Malaysia,Ipoh,626,19,Asia
+NZL,New Zealand,Dunedin,121,19,Oceania
+PHL,Philippines,Gingoog,135,19,Asia
+ROM,Romania,Bacau,209,19,Europe
+ROM,Romania,Brasov,326,19,Europe
+ROM,Romania,Buzau,150,19,Europe
+ROM,Romania,Drobeta Turnu-Severin,119,19,Europe
+ROM,Romania,Oradea,223,19,Europe
+ROM,Romania,Tirgu-Mures,167,19,Europe
+RUS,Russian Federation,Cherepovets,324,19,Europe
+RUS,Russian Federation,Murmansk,417,19,Europe
+RUS,Russian Federation,Obninsk,109,19,Europe
+RUS,Russian Federation,Petrozavodsk,284,19,Europe
+RUS,Russian Federation,Salavat,159,19,Europe
+RUS,Russian Federation,Serov,104,19,Europe
+RUS,Russian Federation,Uhta,142,19,Europe
+ZAF,South Africa,East London,120,19,Africa
+ZAF,South Africa,Ibhayi,302,19,Africa
+GBR,United Kingdom,Belfast,380,19,Europe
+GBR,United Kingdom,Bristol,534,19,Europe
+GBR,United Kingdom,Coventry/Bedworth,338,19,Europe
+GBR,United Kingdom,Crawley,118,19,Europe
+GBR,United Kingdom,Greater Manchester,2325,19,Europe
+GBR,United Kingdom,Liverpool,856,19,Europe
+GBR,United Kingdom,Oxford,121,19,Europe
+GBR,United Kingdom,Reading,343,19,Europe
+GBR,United Kingdom,Sheffield,647,19,Europe
+USA,United States of America,Austin,1020,19,Americas
+USA,United States of America,Colorado Springs,479,19,Americas
+USA,United States of America,Concord,118,19,Americas
+USA,United States of America,Flint,146,19,Americas
+USA,United States of America,Fort Lauderdale,172,19,Americas
+USA,United States of America,Hayward,122,19,Americas
+USA,United States of America,Livonia,106,19,Americas
+USA,United States of America,Minneapolis,2845,19,Americas
+USA,United States of America,Naperville,107,19,Americas
+USA,United States of America,Newport News,190,19,Americas
+USA,United States of America,Richmond,970,19,Americas
+USA,United States of America,Rockford,367,19,Americas
+USA,United States of America,Syracuse,798,19,Americas
+USA,United States of America,Tacoma,194,19,Americas
+USA,United States of America,Waco,209,19,Americas
+USA,United States of America,Waterbury,110,19,Americas
+BRA,Brazil,Castanhal,113,18,Americas
+BRA,Brazil,Marabá,131,18,Americas
+BRA,Brazil,Petrolina,151,18,Americas
+BRA,Brazil,Rio Claro,158,18,Americas
+CAN,Canada,Burnaby,175,18,Americas
+CAN,Canada,OTTAWA,1070,18,Americas
+CAN,Canada,Saskatoon,232,18,Americas
+CAN,Canada,Surrey,270,18,Americas
+COL,Colombia,Bello,284,18,Americas
+COL,Colombia,Tunja,90,18,Americas
+CUB,Cuba,Camagüey,307,18,Americas
+DEU,Germany,Aachen,253,18,Europe
+DEU,Germany,Kiel,253,18,Europe
+DEU,Germany,Salzgitter,121,18,Europe
+IRL,Ireland,Cork,189,18,Europe
+ITA,Italy,Siracusa,127,18,Europe
+JPN,Japan,Daito,130,18,Asia
+JPN,Japan,Lida,109,18,Asia
+JPN,Japan,Okinawa,114,18,Asia
+JPN,Japan,Tomakomai,172,18,Asia
+LUX,Luxembourg,LUXEMBOURG-VILLE,83,18,Europe
+MYS,Malaysia,Taiping,250,18,Asia
+NZL,New Zealand,Northshore,169,18,Oceania
+PRI,Puerto Rico,Mayagüez,112,18,Americas
+MDA,Republic of Moldova,Beltsy,158,18,Europe
+ROM,Romania,Braila,237,18,Europe
+ROM,Romania,Focsani,101,18,Europe
+ROM,Romania,Iasi,341,18,Europe
+RUS,Russian Federation,Kislovodsk,118,18,Europe
+RUS,Russian Federation,Neftekamsk,127,18,Europe
+RUS,Russian Federation,Novomoskovsk (Tulskaya oblast),146,18,Europe
+RUS,Russian Federation,Sarapyul,111,18,Europe
+RUS,Russian Federation,Vorkuta,204,18,Europe
+ZAF,South Africa,Lekoa,256,18,Africa
+ZAF,South Africa,Mangaung,148,18,Africa
+GBR,United Kingdom,Aldershot,236,18,Europe
+GBR,United Kingdom,Brighton,447,18,Europe
+GBR,United Kingdom,Luton/Dunstable,226,18,Europe
+GBR,United Kingdom,Milton Keynes,159,18,Europe
+GBR,United Kingdom,Northampton,187,18,Europe
+GBR,United Kingdom,Norwich,189,18,Europe
+GBR,United Kingdom,Portsmouth,418,18,Europe
+GBR,United Kingdom,Southend-on-Sea,272,18,Europe
+GBR,United Kingdom,Warrington,156,18,Europe
+GBR,United Kingdom,West Yorkshire,1476,18,Europe
+USA,United States of America,Abilene,129,18,Americas
+USA,United States of America,Albany (N.Y.),926,18,Americas
+USA,United States of America,Erie,297,18,Americas
+USA,United States of America,Hartford,1219,18,Americas
+USA,United States of America,Jackson (Miss.),436,18,Americas
+USA,United States of America,Madison,413,18,Americas
+USA,United States of America,San Antonio,1521,18,Americas
+USA,United States of America,Sterling Heights,126,18,Americas
+USA,United States of America,Toledo,650,18,Americas
+USA,United States of America,Virginia Beach,455,18,Americas
+VEN,Venezuela,CARACAS,3488,18,Americas
+AUS,Australia,Newcastle,466,17,Oceania
+AUT,Austria,Salzburg,172,17,Europe
+BRA,Brazil,Canoas,302,17,Americas
+BRA,Brazil,Caxias do Sul,312,17,Americas
+BRA,Brazil,Criciúma,152,17,Americas
+BRA,Brazil,Jaboatao,487,17,Americas
+BRA,Brazil,Juazeiro,142,17,Americas
+BRA,Brazil,Rio Grande,182,17,Americas
+BRA,Brazil,Sao Luís,810,17,Americas
+CAN,Canada,Saint John,138,17,Americas
+CAN,Canada,Thunder Bay,137,17,Americas
+COL,Colombia,Santa Marta,298,17,Americas
+COL,Colombia,Tulua,138,17,Americas
+FIN,Finland,Oulu,156,17,Europe
+FRA,France,Boulogne-Billancourt,107,17,Europe
+FRA,France,Lyon,1334,17,Europe
+DEU,Germany,Halle,297,17,Europe
+DEU,Germany,Schwerin,121,17,Europe
+JPN,Japan,Joetsu,135,17,Asia
+JPN,Japan,Muroran,115,17,Asia
+JPN,Japan,Otaru,163,17,Asia
+KAZ,Kazakhstan,Dzhezkazgan (Zhezkazgan),110,17,Asia
+LVA,Latvia,Liepaja,95,17,Europe
+MYS,Malaysia,Kota Kinabalu,279,17,Asia
+NOR,Norway,Bergen,231,17,Europe
+PRI,Puerto Rico,Aguadilla,195,17,Americas
+ROM,Romania,Baia Mare,151,17,Europe
+ROM,Romania,Botosani,129,17,Europe
+ROM,Romania,Constanta,350,17,Europe
+ROM,Romania,Galati,328,17,Europe
+ROM,Romania,Rimnicu Vilcea,115,17,Europe
+RUS,Russian Federation,Petropavlovsk-Kamchatsky,232,17,Europe
+RUS,Russian Federation,Severodvinsk,254,17,Europe
+RUS,Russian Federation,Zheleznodorozhny,107,17,Europe
+ZAF,South Africa,Ntuzuma,120,17,Africa
+SWE,Sweden,Göteborg,451,17,Europe
+GBR,United Kingdom,Basildon,105,17,Europe
+GBR,United Kingdom,Birmingham/West Midlands,2344,17,Europe
+GBR,United Kingdom,Blackpool,267,17,Europe
+GBR,United Kingdom,Cambridge,116,17,Europe
+GBR,United Kingdom,Chelmsford,99,17,Europe
+GBR,United Kingdom,Cheltenham/Charlton Kings,105,17,Europe
+GBR,United Kingdom,Chesterfield/Staveley,108,17,Europe
+GBR,United Kingdom,Doncaster Urban Area,132,17,Europe
+GBR,United Kingdom,Gillingham (The Medway Towns),220,17,Europe
+GBR,United Kingdom,Glasgow,1075,17,Europe
+GBR,United Kingdom,Gloucester,129,17,Europe
+GBR,United Kingdom,High Wycombe,119,17,Europe
+GBR,United Kingdom,Kingston Upon Hull,317,17,Europe
+GBR,United Kingdom,Lincoln,100,17,Europe
+GBR,United Kingdom,Mansfield,158,17,Europe
+GBR,United Kingdom,Margate,119,17,Europe
+GBR,United Kingdom,Newport,118,17,Europe
+GBR,United Kingdom,Peterborough,138,17,Europe
+GBR,United Kingdom,St. Albans/Hatfield,114,17,Europe
+GBR,United Kingdom,Stoke-on-Trent (The Potteries),376,17,Europe
+GBR,United Kingdom,Sunderland/Whitburn,193,17,Europe
+GBR,United Kingdom,Swindon,148,17,Europe
+GBR,United Kingdom,Telford North,122,17,Europe
+GBR,United Kingdom,York,127,17,Europe
+USA,United States of America,Eugene,316,17,Americas
+USA,United States of America,Grand Rapids,1042,17,Americas
+USA,United States of America,Independence,118,17,Americas
+USA,United States of America,Seattle,3414,17,Americas
+USA,United States of America,South Bend,270,17,Americas
+USA,United States of America,Springfield (Mo.),306,17,Americas
+USA,United States of America,Worcester,175,17,Americas
+VEN,Venezuela,Petare,451,17,Americas
+ATG,Antigua and Barbuda,ST.JOHN'S,24,16,Americas
+AUS,Australia,Adelaide,1115,16,Oceania
+AUS,Australia,Gold Coast,172,16,Oceania
+BRA,Brazil,Chapecó,121,16,Americas
+BRA,Brazil,Dourados,149,16,Americas
+BRA,Brazil,Macapá,223,16,Americas
+BRA,Brazil,Mossoró,202,16,Americas
+BRA,Brazil,Santa Luzia (MA),130,16,Americas
+BRA,Brazil,Santa Maria,228,16,Americas
+BRA,Brazil,Santarém,192,16,Americas
+CAN,Canada,Matsqui,125,16,Americas
+CAN,Canada,Sudbury,176,16,Americas
+ECU,Ecuador,Esmeraldas,126,16,Americas
+ECU,Ecuador,Milagro,128,16,Americas
+FRA,France,Besançon,130,16,Europe
+FRA,France,Nice,547,16,Europe
+FRA,France,Toulon,463,16,Europe
+FRA,France,Villeurbanne,277,16,Europe
+DEU,Germany,Gera,129,16,Europe
+NZL,New Zealand,Manukau,254,16,Oceania
+ROM,Romania,Suceava,118,16,Europe
+RUS,Russian Federation,Bryansk,487,16,Europe
+RUS,Russian Federation,Ivanovo,480,16,Europe
+ZAF,South Africa,Port Elizabeth,1117,16,Africa
+UGA,Uganda,KAMPALA,1171,16,Africa
+GBR,United Kingdom,Barnsley,216,16,Europe
+GBR,United Kingdom,Birkenhead,276,16,Europe
+GBR,United Kingdom,Grimsby/Cleethorpes,139,16,Europe
+GBR,United Kingdom,Ipswich,136,16,Europe
+GBR,United Kingdom,Preston,262,16,Europe
+GBR,United Kingdom,Tyneside,905,16,Europe
+GBR,United Kingdom,Wigan,178,16,Europe
+USA,United States of America,Arlington (Va.),185,16,Americas
+USA,United States of America,Fort Wayne,496,16,Americas
+USA,United States of America,Garland,206,16,Americas
+USA,United States of America,Hollywood (Fl.),132,16,Americas
+USA,United States of America,Rochester (Ny.),1154,16,Americas
+USA,United States of America,Santa Rosa,124,16,Americas
+USA,United States of America,Vallejo,118,16,Americas
+VEN,Venezuela,Valencia,1293,16,Americas
+ARG,Argentina,Mendoza,885,15,Americas
+AUS,Australia,Sunshine Coast,142,15,Oceania
+AUT,Austria,Innsbruck,144,15,Europe
+BRA,Brazil,Aracaju,455,15,Americas
+BRA,Brazil,Maceió,710,15,Americas
+BRA,Brazil,Magé,182,15,Americas
+BRA,Brazil,Maracanau,170,15,Americas
+BRA,Brazil,Parnaíba,120,15,Americas
+BRA,Brazil,Paulista,244,15,Americas
+BRA,Brazil,Sobral,123,15,Americas
+BRA,Brazil,Viamao,170,15,Americas
+CAN,Canada,Vancouver,1880,15,Americas
+CAN,Canada,Vaughan,123,15,Americas
+COL,Colombia,Barranquilla,1093,15,Americas
+COL,Colombia,Ibagué,375,15,Americas
+COL,Colombia,Soledad,261,15,Americas
+FRA,France,Dijon,244,15,Europe
+FRA,France,Metz,204,15,Europe
+DEU,Germany,Stuttgart,603,15,Europe
+DEU,Germany,Zwickau,107,15,Europe
+IND,India,Srinagar,760,15,Asia
+JPN,Japan,Iruma,146,15,Asia
+JPN,Japan,Minoo,127,15,Asia
+JPN,Japan,Sayama,166,15,Asia
+KAZ,Kazakhstan,Aktau,186,15,Asia
+NZL,New Zealand,Auckland,989,15,Oceania
+NOR,Norway,Stavanger,108,15,Europe
+ROM,Romania,Piatra Neamt,126,15,Europe
+RUS,Russian Federation,Arkhangelsk,390,15,Europe
+RUS,Russian Federation,Norilsk,272,15,Europe
+RUS,Russian Federation,Zelenograd,191,15,Europe
+ZAF,South Africa,CAPE TOWN,2942,15,Africa
+GBR,United Kingdom,Blackburn/Darwen,139,15,Europe
+GBR,United Kingdom,Edinburgh,431,15,Europe
+GBR,United Kingdom,Hastings/Bexhill,123,15,Europe
+GBR,United Kingdom,Middlesbrough (Teesside),377,15,Europe
+GBR,United Kingdom,Southport,119,15,Europe
+GBR,United Kingdom,Swansea,279,15,Europe
+GBR,United Kingdom,Torquay,105,15,Europe
+USA,United States of America,Allentown,647,15,Americas
+USA,United States of America,Amarillo,209,15,Americas
+USA,United States of America,Beaumont,394,15,Americas
+AUS,Australia,Melbourne,3293,14,Oceania
+AUS,Australia,Perth,1245,14,Oceania
+BRA,Brazil,Boa Vista,160,14,Americas
+BRA,Brazil,Passo Fundo,160,14,Americas
+CAN,Canada,Victoria,332,14,Americas
+COL,Colombia,Barrancabermeja,160,14,Americas
+COL,Colombia,Sincelejo,186,14,Americas
+FRA,France,Clermont-Ferrand,269,14,Europe
+FRA,France,Perpignan,167,14,Europe
+FRA,France,Reims,218,14,Europe
+FRA,France,Toulouse,687,14,Europe
+FRA,France,Troyes,139,14,Europe
+DEU,Germany,Hannover,538,14,Europe
+SWE,Sweden,Malmö,265,14,Europe
+GBR,United Kingdom,Aberdeen,194,14,Europe
+GBR,United Kingdom,Burnley/Nelson,153,14,Europe
+GBR,United Kingdom,Dundee,162,14,Europe
+GBR,United Kingdom,Plymouth,250,14,Europe
+BRA,Brazil,Cabo,133,13,Americas
+BRA,Brazil,Camacari,137,13,Americas
+BRA,Brazil,Campina Grande,347,13,Americas
+BRA,Brazil,Manaus,1223,13,Americas
+COL,Colombia,Manizales,334,13,Americas
+COL,Colombia,Monteria,232,13,Americas
+FRA,France,Aix-en-Provence,1301,13,Europe
+FRA,France,Lille,1014,13,Europe
+FRA,France,Nimes,147,13,Europe
+FRA,France,Rouen,402,13,Europe
+FRA,France,Saint-Etienne,331,13,Europe
+FRA,France,Tours,298,13,Europe
+FRA,France,Trappes,158,13,Europe
+FRA,France,Valence,116,13,Europe
+FRA,France,Valenciennes,374,13,Europe
+DEU,Germany,Bremen,562,13,Europe
+IND,India,Valparai,134,13,Asia
+NZL,New Zealand,Waitakere,154,13,Oceania
+SWE,Sweden,Helsingborg,114,13,Europe
+SWE,Sweden,Norrköping,125,13,Europe
+SWE,Sweden,Uppsala,174,13,Europe
+SWE,Sweden,Västeras,125,13,Europe
+BRA,Brazil,Arapiraca,147,12,Americas
+BRA,Brazil,Feira de Santana,419,12,Americas
+BRA,Brazil,Itabuna,189,12,Americas
+BRA,Brazil,Jequié,143,12,Americas
+CAN,Canada,Halifax,359,12,Americas
+CAN,Canada,Moncton,117,12,Americas
+COL,Colombia,Bucaramanga,452,12,Americas
+COL,Colombia,Buenaventura,215,12,Americas
+COL,Colombia,Floridablanca,207,12,Americas
+FRA,France,Amiens,165,12,Europe
+FRA,France,Angers,220,12,Europe
+FRA,France,Le Mans,200,12,Europe
+FRA,France,Limoges,180,12,Europe
+FRA,France,Nantes,523,12,Europe
+FRA,France,Orléans,257,12,Europe
+FRA,France,PARIS,9851,12,Europe
+ITA,Italy,Palermo,702,12,Europe
+NZL,New Zealand,WELLINGTON,355,12,Oceania
+SWE,Sweden,Boras,106,12,Europe
+SWE,Sweden,Jönköping,116,12,Europe
+SWE,Sweden,Linköping,127,12,Europe
+SWE,Sweden,Örebro,126,12,Europe
+SWE,Sweden,STOCKHOLM,916,12,Europe
+VEN,Venezuela,Maracaibo,1709,12,Americas
+VEN,Venezuela,San Fernando de Apure,146,12,Americas
+AUS,Australia,Geelong,158,11,Oceania
+BRA,Brazil,Alagoinhas,110,11,Americas
+BRA,Brazil,Camaragibe,118,11,Americas
+BRA,Brazil,Caucaia,201,11,Americas
+BRA,Brazil,Ilhéus,184,11,Americas
+BRA,Brazil,Queimados,115,11,Americas
+CAN,Canada,St. John's,188,11,Americas
+COL,Colombia,Cartagena,680,11,Americas
+ZAR,Democratic Republic of the Congo,Mbandaka,240,11,Africa
+FRA,France,Caen,202,11,Europe
+FRA,France,Rennes,259,11,Europe
+USA,United States of America,Honolulu,925,11,Americas
+VEN,Venezuela,Acarigua-Araure,232,11,Americas
+VEN,Venezuela,Barinas,204,11,Americas
+VEN,Venezuela,Barquisimeto,934,11,Americas
+VEN,Venezuela,Cabimas,217,11,Americas
+VEN,Venezuela,Cumaná,289,11,Americas
+VEN,Venezuela,Mérida,298,11,Americas
+VEN,Venezuela,Turmero,233,11,Americas
+VEN,Venezuela,Valera,127,11,Americas
+CAN,Canada,Sydney Glace Bay,128,10,Americas
+FRA,France,Le Havre,268,10,Europe
+PER,Peru,Iquitos,352,10,Americas
+ZAF,South Africa,Khayelitsa,223,10,Africa
+VEN,Venezuela,Barcelona-Pto. La Cruz,507,10,Americas
+VEN,Venezuela,Baruta,197,10,Americas
+VEN,Venezuela,Ciudad Bolivar,310,10,Americas
+VEN,Venezuela,Los Teques,196,10,Americas
+BLR,Belarus,Gomel,533,9,Europe
+BLR,Belarus,MINSK,1748,9,Europe
+FRA,France,Brest,213,9,Europe
+VEN,Venezuela,Barcelona,538,9,Americas
+VEN,Venezuela,Coro,180,9,Americas
+VEN,Venezuela,Guanare,138,9,Americas
+VEN,Venezuela,Guarenas,181,9,Americas
+BLR,Belarus,Bobruisk,235,8,Europe
+BLR,Belarus,Brest,301,8,Europe
+BLR,Belarus,Mogilev,378,8,Europe
+BLR,Belarus,Vitebsk,384,8,Europe
+VEN,Venezuela,Catia la Mar,133,8,Americas
+VEN,Venezuela,Ciudad Guayana,622,8,Americas
+VEN,Venezuela,Maturín,323,8,Americas
+VEN,Venezuela,San Cristóbal,421,8,Americas
+BLR,Belarus,Baranovichi,178,7,Europe
+BLR,Belarus,Borisov,159,7,Europe
+BLR,Belarus,Grodno,309,7,Europe
+BLR,Belarus,Mozir,111,7,Europe
+BLR,Belarus,Orsha,144,7,Europe
+VEN,Venezuela,Carupano,120,7,Americas
+VEN,Venezuela,Maracay,1002,7,Americas
+VEN,Venezuela,Puerto Cabello,171,7,Americas
+BLR,Belarus,Pinsk,134,6,Europe
+BLR,Belarus,Solegorsk,104,6,Europe
