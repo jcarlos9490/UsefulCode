@@ -1,3 +1,3 @@
 # UsefulCode
 Useful code for data visualization
-Animated ggplot plot.
+Animated ggplot using plotly package.
